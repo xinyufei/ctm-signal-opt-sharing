@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101752' action='modify' visible='true' lat='55.34898164412' lon='-32.67223646454' />
+  <node id='-101754' action='modify' visible='true' lat='55.3490139657' lon='-32.6705138748'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='-101755' action='modify' visible='true' lat='55.34899189369' lon='-32.67161874017' />
+  <node id='-101771' action='modify' visible='true' lat='55.34843745552' lon='-32.67047427706' />
+  <node id='-101772' action='modify' visible='true' lat='55.34862695838' lon='-32.67048831324' />
+  <node id='-101773' action='modify' visible='true' lat='55.34899640737' lon='-32.6711802842' />
+  <node id='-101775' action='modify' visible='true' lat='55.34949000919' lon='-32.67053949363' />
+  <node id='-101776' action='modify' visible='true' lat='55.34990978322' lon='-32.67056756598' />
+  <node id='-101779' action='modify' visible='true' lat='55.3490319253' lon='-32.66961151104' />
+  <node id='-101780' action='modify' visible='true' lat='55.34904788656' lon='-32.66892252893' />
+  <way id='-101782' action='modify' visible='true'>
+    <nd ref='-101752' />
+    <nd ref='-101755' />
+    <nd ref='-101773' />
+    <tag k='lanes' v='2' />
+  </way>
+  <way id='-101801' action='modify' visible='true'>
+    <nd ref='-101754' />
+    <nd ref='-101775' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='1' />
+  </way>
+  <way id='-101805' action='modify' visible='true'>
+    <nd ref='-101779' />
+    <nd ref='-101780' />
+    <tag k='lanes' v='2' />
+  </way>
+  <way id='-101808' action='modify' visible='true'>
+    <nd ref='-101773' />
+    <nd ref='-101754' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='2' />
+  </way>
+  <way id='-101848' action='modify' visible='true'>
+    <nd ref='-101754' />
+    <nd ref='-101779' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='1' />
+  </way>
+  <way id='-102056' action='modify' visible='true'>
+    <nd ref='-101775' />
+    <nd ref='-101776' />
+    <tag k='lanes' v='2' />
+  </way>
+  <way id='-102075' action='modify' visible='true'>
+    <nd ref='-101771' />
+    <nd ref='-101772' />
+    <tag k='lanes' v='2' />
+  </way>
+  <way id='-102076' action='modify' visible='true'>
+    <nd ref='-101772' />
+    <nd ref='-101754' />
+    <tag k='lanes' v='3' />
+    <tag k='lanes:forward' v='2' />
+  </way>
+</osm>

@@ -1,0 +1,6152 @@
+{
+  "segments": {
+    "-1017821": {
+      "geometry": [
+        [
+          55.34904599802525,
+          -32.67099064207126
+        ],
+        [
+          55.34904148434525,
+          -32.6714290980384
+        ],
+        [
+          55.34902702813525,
+          -32.67177307613925
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1017821 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101773 <br/> downstream node: -101752 <br/> </p>"
+    },
+    "-1017820": {
+      "geometry": [
+        [
+          55.34891929562419,
+          -32.67176047255761
+        ],
+        [
+          55.34893375183418,
+          -32.67141649444536
+        ],
+        [
+          55.348938265514185,
+          -32.67097803847465
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1017820 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101752 <br/> downstream node: -101773 <br/> </p>"
+    },
+    "-1018011": {
+      "geometry": [
+        [
+          55.34948835932418,
+          -32.67067670217857
+        ],
+        [
+          55.34901231583419,
+          -32.6706510792619
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018011 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101775 <br/> downstream node: -101754 <br/> </p>"
+    },
+    "-1018010": {
+      "geometry": [
+        [
+          55.349015615492405,
+          -32.67037667032667
+        ],
+        [
+          55.34949165898241,
+          -32.67040228507001
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018010 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101754 <br/> downstream node: -101775 <br/> </p>"
+    },
+    "-1018031": {
+      "geometry": [
+        [
+          55.34850998896291,
+          -32.66779518574921
+        ],
+        [
+          55.3490724851829,
+          -32.66783653400253
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018031 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101900 <br/> downstream node: -101781 <br/> </p>"
+    },
+    "-1018030": {
+      "geometry": [
+        [
+          55.34906797936376,
+          -32.668110832801865
+        ],
+        [
+          55.34850548314374,
+          -32.66806947489518
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018030 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101781 <br/> downstream node: -101900 <br/> </p>"
+    },
+    "-1018051": {
+      "geometry": [
+        [
+          55.349101785894085,
+          -32.66892811728215
+        ],
+        [
+          55.34908582463409,
+          -32.66961709938657
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018051 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101780 <br/> downstream node: -101779 <br/> </p>"
+    },
+    "-1018050": {
+      "geometry": [
+        [
+          55.3489780259658,
+          -32.66960592270865
+        ],
+        [
+          55.348993987225796,
+          -32.668916940593064
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018050 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101779 <br/> downstream node: -101780 <br/> </p>"
+    },
+    "-1018081": {
+      "geometry": [
+        [
+          55.3490677291679,
+          -32.67052509744393
+        ],
+        [
+          55.349045964197906,
+          -32.670991746038645
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018081 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101754 <br/> downstream node: -101773 <br/> </p>"
+    },
+    "-1018080": {
+      "geometry": [
+        [
+          55.34893843726161,
+          -32.670969300811834
+        ],
+        [
+          55.348960202231616,
+          -32.67050265218655
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018080 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101773 <br/> downstream node: -101754 <br/> </p>"
+    },
+    "-1018391": {
+      "geometry": [
+        [
+          55.34931345418897,
+          -32.668129607031595
+        ],
+        [
+          55.34906788861898,
+          -32.66811082295452
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018391 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101902 <br/> downstream node: -101781 <br/> </p>"
+    },
+    "-1018390": {
+      "geometry": [
+        [
+          55.34907257592769,
+          -32.66783654384925
+        ],
+        [
+          55.34931814149769,
+          -32.66785532371218
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018390 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101781 <br/> downstream node: -101902 <br/> </p>"
+    },
+    "-1018401": {
+      "geometry": [
+        [
+          55.34916238933334,
+          -32.66639775190207
+        ],
+        [
+          55.349124127613344,
+          -32.6679795180681
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018401 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101899 <br/> downstream node: -101781 <br/> </p>"
+    },
+    "-1018400": {
+      "geometry": [
+        [
+          55.34901633700653,
+          -32.66796784876777
+        ],
+        [
+          55.34905459872654,
+          -32.666386082573815
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018400 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101781 <br/> downstream node: -101899 <br/> </p>"
+    },
+    "-1018481": {
+      "geometry": [
+        [
+          55.34908583633619,
+          -32.66961631316226
+        ],
+        [
+          55.349067876736186,
+          -32.67051867691686
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018481 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101779 <br/> downstream node: -101754 <br/> </p>"
+    },
+    "-1018480": {
+      "geometry": [
+        [
+          55.34896005466373,
+          -32.67050907269622
+        ],
+        [
+          55.348978014263736,
+          -32.66960670893082
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018480 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101754 <br/> downstream node: -101779 <br/> </p>"
+    },
+    "-1018521": {
+      "geometry": [
+        [
+          55.349124130151004,
+          -32.667979364252496
+        ],
+        [
+          55.34910178440099,
+          -32.66892820976456
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018521 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101781 <br/> downstream node: -101780 <br/> </p>"
+    },
+    "-1018520": {
+      "geometry": [
+        [
+          55.34899398871889,
+          -32.668916848110904
+        ],
+        [
+          55.349016334468885,
+          -32.66796800258296
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1018520 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101780 <br/> downstream node: -101781 <br/> </p>"
+    },
+    "-1020081": {
+      "geometry": [
+        [
+          55.34798286651492,
+          -32.66775770354401
+        ],
+        [
+          55.348509915384916,
+          -32.66779517805145
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020081 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101901 <br/> downstream node: -101900 <br/> </p>"
+    },
+    "-1020080": {
+      "geometry": [
+        [
+          55.34850555672173,
+          -32.66806948259345
+        ],
+        [
+          55.34797850785172,
+          -32.66803199904089
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020080 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101900 <br/> downstream node: -101901 <br/> </p>"
+    },
+    "-1020531": {
+      "geometry": [
+        [
+          55.34974379348476,
+          -32.66817861279592
+        ],
+        [
+          55.349312310764766,
+          -32.66812944953773
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020531 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101826 <br/> downstream node: -101902 <br/> </p>"
+    },
+    "-1020530": {
+      "geometry": [
+        [
+          55.34931928492207,
+          -32.66785548119815
+        ],
+        [
+          55.349750767642064,
+          -32.667904637059955
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020530 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101902 <br/> downstream node: -101826 <br/> </p>"
+    },
+    "-1020561": {
+      "geometry": [
+        [
+          55.34990773355981,
+          -32.67070474322403
+        ],
+        [
+          55.3494879595298,
+          -32.6706766672712
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020561 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101776 <br/> downstream node: -101775 <br/> </p>"
+    },
+    "-1020560": {
+      "geometry": [
+        [
+          55.34949205877682,
+          -32.670402319974606
+        ],
+        [
+          55.349911832806825,
+          -32.670430388721776
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020560 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101775 <br/> downstream node: -101776 <br/> </p>"
+    },
+    "-1020751": {
+      "geometry": [
+        [
+          55.3486246885528,
+          -32.670625457025864
+        ],
+        [
+          55.34843518569281,
+          -32.67061141921983
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020751 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101772 <br/> downstream node: -101771 <br/> </p>"
+    },
+    "-1020750": {
+      "geometry": [
+        [
+          55.348439725273835,
+          -32.670337134884456
+        ],
+        [
+          55.34862922813385,
+          -32.67035116943842
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020750 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101771 <br/> downstream node: -101772 <br/> </p>"
+    },
+    "-1020761": {
+      "geometry": [
+        [
+          55.349011941263036,
+          -32.670651046781096
+        ],
+        [
+          55.34862493394302,
+          -32.67062548189969
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020761 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101754 <br/> downstream node: -101772 <br/> </p>"
+    },
+    "-1020760": {
+      "geometry": [
+        [
+          55.3486289827436,
+          -32.67035114456629
+        ],
+        [
+          55.34901599006359,
+          -32.67037670280489
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1020760 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101772 <br/> downstream node: -101754 <br/> </p>"
+    },
+    "-1021081": {
+      "geometry": [
+        [
+          55.34879210453281,
+          -32.6633477652924
+        ],
+        [
+          55.34860260247281,
+          -32.66333372748635
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021081 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101944 <br/> downstream node: -101936 <br/> </p>"
+    },
+    "-1021080": {
+      "geometry": [
+        [
+          55.34860714205383,
+          -32.663059440277934
+        ],
+        [
+          55.348796644113825,
+          -32.663073474831876
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021080 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101936 <br/> downstream node: -101944 <br/> </p>"
+    },
+    "-1021101": {
+      "geometry": [
+        [
+          55.34925325061613,
+          -32.6623386200468
+        ],
+        [
+          55.34923529107613,
+          -32.66324098380141
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021101 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101948 <br/> downstream node: -101956 <br/> </p>"
+    },
+    "-1021100": {
+      "geometry": [
+        [
+          55.34912746900379,
+          -32.663231379471654
+        ],
+        [
+          55.349145428543785,
+          -32.66232901570626
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021100 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101956 <br/> downstream node: -101948 <br/> </p>"
+    },
+    "-1021111": {
+      "geometry": [
+        [
+          55.35077799637876,
+          -32.65944345488172
+        ],
+        [
+          55.34989222087876,
+          -32.659349896447075
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021111 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101957 <br/> downstream node: -101945 <br/> </p>"
+    },
+    "-1021110": {
+      "geometry": [
+        [
+          55.349898687688025,
+          -32.65907583759055
+        ],
+        [
+          55.35078446318801,
+          -32.6591693808359
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021110 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101945 <br/> downstream node: -101957 <br/> </p>"
+    },
+    "-1021121": {
+      "geometry": [
+        [
+          55.3493136387839,
+          -32.65858469892283
+        ],
+        [
+          55.3492999570239,
+          -32.65916280123794
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021121 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101959 <br/> downstream node: -101955 <br/> </p>"
+    },
+    "-1021120": {
+      "geometry": [
+        [
+          55.349192162255974,
+          -32.659151383417594
+        ],
+        [
+          55.34920584401598,
+          -32.658573281092714
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021120 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101955 <br/> downstream node: -101959 <br/> </p>"
+    },
+    "-1021131": {
+      "geometry": [
+        [
+          55.34917935560301,
+          -32.66337335504792
+        ],
+        [
+          55.34879234992299,
+          -32.66334779016648
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021131 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101956 <br/> downstream node: -101944 <br/> </p>"
+    },
+    "-1021130": {
+      "geometry": [
+        [
+          55.348796398723614,
+          -32.66307344995949
+        ],
+        [
+          55.34918340440362,
+          -32.66309900819805
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021130 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101944 <br/> downstream node: -101956 <br/> </p>"
+    },
+    "-1021151": {
+      "geometry": [
+        [
+          55.34933992209416,
+          -32.65737003249379
+        ],
+        [
+          55.349313646424164,
+          -32.658584210955205
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021151 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101940 <br/> downstream node: -101959 <br/> </p>"
+    },
+    "-1021150": {
+      "geometry": [
+        [
+          55.34920583637573,
+          -32.65857376905902
+        ],
+        [
+          55.34923211204573,
+          -32.657359590580434
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021150 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101959 <br/> downstream node: -101940 <br/> </p>"
+    },
+    "-1021161": {
+      "geometry": [
+        [
+          55.34927764766153,
+          -32.66015302369971
+        ],
+        [
+          55.34925327324154,
+          -32.6623365124456
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021161 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101953 <br/> downstream node: -101948 <br/> </p>"
+    },
+    "-1021160": {
+      "geometry": [
+        [
+          55.34914540591844,
+          -32.66233112330174
+        ],
+        [
+          55.34916978033843,
+          -32.66014763454763
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021160 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101948 <br/> downstream node: -101953 <br/> </p>"
+    },
+    "-1021191": {
+      "geometry": [
+        [
+          55.34965577166422,
+          -32.66339901044578
+        ],
+        [
+          55.34917973017423,
+          -32.66337338752908
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021191 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101963 <br/> downstream node: -101956 <br/> </p>"
+    },
+    "-1021190": {
+      "geometry": [
+        [
+          55.34918302983237,
+          -32.663098975719485
+        ],
+        [
+          55.34965907132236,
+          -32.663124590462786
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021190 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101956 <br/> downstream node: -101963 <br/> </p>"
+    },
+    "-1021201": {
+      "geometry": [
+        [
+          55.3486809358674,
+          -32.658970771741394
+        ],
+        [
+          55.34893033779741,
+          -32.658993451542315
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021201 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101937 <br/> downstream node: -101965 <br/> </p>"
+    },
+    "-1021200": {
+      "geometry": [
+        [
+          55.34892476638931,
+          -32.6592676211184
+        ],
+        [
+          55.34867536445931,
+          -32.65924493703931
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021200 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101965 <br/> downstream node: -101937 <br/> </p>"
+    },
+    "-1021281": {
+      "geometry": [
+        [
+          55.35007514412982,
+          -32.663427051490906
+        ],
+        [
+          55.34965537186982,
+          -32.663398975538044
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021281 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101939 <br/> downstream node: -101963 <br/> </p>"
+    },
+    "-1021280": {
+      "geometry": [
+        [
+          55.3496594711168,
+          -32.66312462536775
+        ],
+        [
+          55.3500792433768,
+          -32.663152694114885
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021280 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101963 <br/> downstream node: -101939 <br/> </p>"
+    },
+    "-1021321": {
+      "geometry": [
+        [
+          55.34929996151497,
+          -32.659162519728746
+        ],
+        [
+          55.34927761587496,
+          -32.660155756521156
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021321 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101955 <br/> downstream node: -101953 <br/> </p>"
+    },
+    "-1021320": {
+      "geometry": [
+        [
+          55.34916981212491,
+          -32.66014490173362
+        ],
+        [
+          55.34919215776492,
+          -32.65915166492603
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021320 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101953 <br/> downstream node: -101955 <br/> </p>"
+    },
+    "-1021331": {
+      "geometry": [
+        [
+          55.34893010647939,
+          -32.65899342237263
+        ],
+        [
+          55.349248613989396,
+          -32.65901997562019
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021331 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101965 <br/> downstream node: -101955 <br/> </p>"
+    },
+    "-1021330": {
+      "geometry": [
+        [
+          55.34924350521729,
+          -32.65929420900212
+        ],
+        [
+          55.34892499770729,
+          -32.659267650289685
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021330 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101955 <br/> downstream node: -101965 <br/> </p>"
+    },
+    "-1021341": {
+      "geometry": [
+        [
+          55.349892823183005,
+          -32.65934997988927
+        ],
+        [
+          55.349243428503,
+          -32.659294199608325
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021341 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101945 <br/> downstream node: -101955 <br/> </p>"
+    },
+    "-1021340": {
+      "geometry": [
+        [
+          55.349248690703696,
+          -32.659019985013444
+        ],
+        [
+          55.349898085383685,
+          -32.65907575415251
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021340 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101955 <br/> downstream node: -101945 <br/> </p>"
+    },
+    "-1021351": {
+      "geometry": [
+        [
+          55.34923526654291,
+          -32.6632425208556
+        ],
+        [
+          55.34919246855291,
+          -32.66487074144863
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021351 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101956 <br/> downstream node: -101946 <br/> </p>"
+    },
+    "-1021350": {
+      "geometry": [
+        [
+          55.34908469554694,
+          -32.66485806304862
+        ],
+        [
+          55.34912749353694,
+          -32.66322984242165
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1021350 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101946 <br/> downstream node: -101956 <br/> </p>"
+    },
+    "-1024361": {
+      "geometry": [
+        [
+          55.34919249376366,
+          -32.66486915488948
+        ],
+        [
+          55.34916240574366,
+          -32.66639666987054
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024361 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101946 <br/> downstream node: -101899 <br/> </p>"
+    },
+    "-1024360": {
+      "geometry": [
+        [
+          55.34905458231626,
+          -32.666387164602405
+        ],
+        [
+          55.349084670336254,
+          -32.66485964960346
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024360 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -101899 <br/> downstream node: -101946 <br/> </p>"
+    },
+    "-1024811": {
+      "geometry": [
+        [
+          55.34923212132404,
+          -32.657359003336246
+        ],
+        [
+          55.34925735974404,
+          -32.65631084999708
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024811 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -101940 <br/> downstream node: -102206 <br/> </p>"
+    },
+    "-1024810": {
+      "geometry": [
+        [
+          55.34936515123584,
+          -32.65632246641874
+        ],
+        [
+          55.34933991281583,
+          -32.657370619739574
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024810 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102206 <br/> downstream node: -101940 <br/> </p>"
+    },
+    "-1024841": {
+      "geometry": [
+        [
+          55.34973082269512,
+          -32.656201808155245
+        ],
+        [
+          55.350239813295104,
+          -32.65625359363072
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024841 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102212 <br/> downstream node: -102213 <br/> </p>"
+    },
+    "-1024840": {
+      "geometry": [
+        [
+          55.35023358225165,
+          -32.65652769370771
+        ],
+        [
+          55.34972459165166,
+          -32.65647589950319
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024840 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102213 <br/> downstream node: -102212 <br/> </p>"
+    },
+    "-1024861": {
+      "geometry": [
+        [
+          55.34925735233042,
+          -32.656311314030404
+        ],
+        [
+          55.34928259196042,
+          -32.655171937671966
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024861 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102206 <br/> downstream node: -102215 <br/> </p>"
+    },
+    "-1024860": {
+      "geometry": [
+        [
+          55.349390398279475,
+          -32.65518262604259
+        ],
+        [
+          55.349365158649476,
+          -32.656322002384144
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024860 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102215 <br/> downstream node: -102206 <br/> </p>"
+    },
+    "-1024871": {
+      "geometry": [
+        [
+          55.34928255561305,
+          -32.65517549925759
+        ],
+        [
+          55.349286762213055,
+          -32.65460581107711
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024871 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102215 <br/> downstream node: -102217 <br/> </p>"
+    },
+    "-1024870": {
+      "geometry": [
+        [
+          55.349394641226944,
+          -32.65460937626774
+        ],
+        [
+          55.34939043462693,
+          -32.65517906444728
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024870 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102217 <br/> downstream node: -102215 <br/> </p>"
+    },
+    "-1024881": {
+      "geometry": [
+        [
+          55.34928704048105,
+          -32.65459355565458
+        ],
+        [
+          55.349333313071064,
+          -32.653801911013936
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024881 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102217 <br/> downstream node: -102219 <br/> </p>"
+    },
+    "-1024880": {
+      "geometry": [
+        [
+          55.34944063554817,
+          -32.6538299871641
+        ],
+        [
+          55.349394362958186,
+          -32.654621631723465
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024880 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102219 <br/> downstream node: -102217 <br/> </p>"
+    },
+    "-1024891": {
+      "geometry": [
+        [
+          55.34971818261932,
+          -32.653701096140765
+        ],
+        [
+          55.35008415183932,
+          -32.65373808574259
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024891 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102222 <br/> downstream node: -102221 <br/> </p>"
+    },
+    "-1024890": {
+      "geometry": [
+        [
+          55.35007796158746,
+          -32.65401218913599
+        ],
+        [
+          55.349711992367446,
+          -32.65397519325781
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024890 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102221 <br/> downstream node: -102222 <br/> </p>"
+    },
+    "-1024911": {
+      "geometry": [
+        [
+          55.34933305555933,
+          -32.653811744946545
+        ],
+        [
+          55.349379328099324,
+          -32.65115566629438
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024911 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102219 <br/> downstream node: -102224 <br/> </p>"
+    },
+    "-1024910": {
+      "geometry": [
+        [
+          55.349487165600614,
+          -32.651164074577075
+        ],
+        [
+          55.34944089306061,
+          -32.6538201532049
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024910 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102224 <br/> downstream node: -102219 <br/> </p>"
+    },
+    "-1024921": {
+      "geometry": [
+        [
+          55.3483941730921,
+          -32.6560540312483
+        ],
+        [
+          55.349315430332105,
+          -32.65617979866994
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024921 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102225 <br/> downstream node: -102206 <br/> </p>"
+    },
+    "-1024920": {
+      "geometry": [
+        [
+          55.34930708057485,
+          -32.65645351770121
+        ],
+        [
+          55.348385823334866,
+          -32.65632773450285
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1024920 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102206 <br/> downstream node: -102225 <br/> </p>"
+    },
+    "-1025351": {
+      "geometry": [
+        [
+          55.34931288937139,
+          -32.65617944994171
+        ],
+        [
+          55.3497293410914,
+          -32.6562016420065
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1025351 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102206 <br/> downstream node: -102212 <br/> </p>"
+    },
+    "-1025350": {
+      "geometry": [
+        [
+          55.3497260732552,
+          -32.656476065662176
+        ],
+        [
+          55.34930962153519,
+          -32.656453866446974
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1025350 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102212 <br/> downstream node: -102206 <br/> </p>"
+    },
+    "-1026641": {
+      "geometry": [
+        [
+          55.34757721980426,
+          -32.65596510581234
+        ],
+        [
+          55.34839332859425,
+          -32.6560538813972
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1026641 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102226 <br/> downstream node: -102225 <br/> </p>"
+    },
+    "-1026640": {
+      "geometry": [
+        [
+          55.348386667832564,
+          -32.65632788435977
+        ],
+        [
+          55.34757055904256,
+          -32.656239094784624
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1026640 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102225 <br/> downstream node: -102226 <br/> </p>"
+    },
+    "-1028431": {
+      "geometry": [
+        [
+          55.34879534986464,
+          -32.653608704396
+        ],
+        [
+          55.349390587824644,
+          -32.65367898550526
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028431 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102385 <br/> downstream node: -102219 <br/> </p>"
+    },
+    "-1028430": {
+      "geometry": [
+        [
+          55.34938336072221,
+          -32.653952912609746
+        ],
+        [
+          55.34878812276222,
+          -32.653882621299005
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028430 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102219 <br/> downstream node: -102385 <br/> </p>"
+    },
+    "-1028781": {
+      "geometry": [
+        [
+          55.34845629737468,
+          -32.6535498752337
+        ],
+        [
+          55.34879703832468,
+          -32.65360906070152
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028781 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102386 <br/> downstream node: -102385 <br/> </p>"
+    },
+    "-1028780": {
+      "geometry": [
+        [
+          55.34878643430255,
+          -32.6538822649819
+        ],
+        [
+          55.34844569335254,
+          -32.65382307368972
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028780 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102385 <br/> downstream node: -102386 <br/> </p>"
+    },
+    "-1028841": {
+      "geometry": [
+        [
+          55.349389047511465,
+          -32.653678778596884
+        ],
+        [
+          55.34971716073146,
+          -32.65370097142085
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028841 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102219 <br/> downstream node: -102222 <br/> </p>"
+    },
+    "-1028840": {
+      "geometry": [
+        [
+          55.34971301425517,
+          -32.65397531798479
+        ],
+        [
+          55.349384901035165,
+          -32.65395311952875
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1028840 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102222 <br/> downstream node: -102219 <br/> </p>"
+    },
+    "-1030361": {
+      "geometry": [
+        [
+          55.349458196015654,
+          -32.64814495277912
+        ],
+        [
+          55.34947081576565,
+          -32.64732371398619
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030361 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102485 <br/> downstream node: -102488 <br/> </p>"
+    },
+    "-1030360": {
+      "geometry": [
+        [
+          55.349578664494295,
+          -32.647331131443906
+        ],
+        [
+          55.34956604474429,
+          -32.64815237023099
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030360 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102488 <br/> downstream node: -102485 <br/> </p>"
+    },
+    "-1030371": {
+      "geometry": [
+        [
+          55.34814286486627,
+          -32.64780836050239
+        ],
+        [
+          55.34878648927628,
+          -32.64789713756182
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030371 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102482 <br/> downstream node: -102486 <br/> </p>"
+    },
+    "-1030370": {
+      "geometry": [
+        [
+          55.348778053370694,
+          -32.64817083042903
+        ],
+        [
+          55.348134428960705,
+          -32.64808204234846
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030370 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102486 <br/> downstream node: -102482 <br/> </p>"
+    },
+    "-1030381": {
+      "geometry": [
+        [
+          55.34942046565822,
+          -32.64903370356051
+        ],
+        [
+          55.349458324928214,
+          -32.648138479256396
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030381 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102487 <br/> downstream node: -102485 <br/> </p>"
+    },
+    "-1030380": {
+      "geometry": [
+        [
+          55.34956591583138,
+          -32.64815884377128
+        ],
+        [
+          55.34952805656138,
+          -32.64905406802716
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030380 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102485 <br/> downstream node: -102487 <br/> </p>"
+    },
+    "-1030391": {
+      "geometry": [
+        [
+          55.34951169891863,
+          -32.6480113927298
+        ],
+        [
+          55.35005013798863,
+          -32.64800398956526
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030391 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102485 <br/> downstream node: -102484 <br/> </p>"
+    },
+    "-1030390": {
+      "geometry": [
+        [
+          55.3500509808379,
+          -32.64827853635767
+        ],
+        [
+          55.349512541767886,
+          -32.64828593027313
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030390 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102484 <br/> downstream node: -102485 <br/> </p>"
+    },
+    "-1030401": {
+      "geometry": [
+        [
+          55.348787071416105,
+          -32.647897261815594
+        ],
+        [
+          55.3495169204361,
+          -32.648011933062094
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030401 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102486 <br/> downstream node: -102485 <br/> </p>"
+    },
+    "-1030400": {
+      "geometry": [
+        [
+          55.349507320251,
+          -32.64828538990477
+        ],
+        [
+          55.34877747123101,
+          -32.648170706171264
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030400 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102485 <br/> downstream node: -102486 <br/> </p>"
+    },
+    "-1030411": {
+      "geometry": [
+        [
+          55.350052193331244,
+          -32.64800404835476
+        ],
+        [
+          55.35074626414124,
+          -32.648041035125765
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030411 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102484 <br/> downstream node: -102483 <br/> </p>"
+    },
+    "-1030410": {
+      "geometry": [
+        [
+          55.35074299630536,
+          -32.648315476242914
+        ],
+        [
+          55.35004892549535,
+          -32.64827847755393
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030410 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102483 <br/> downstream node: -102484 <br/> </p>"
+    },
+    "-1030451": {
+      "geometry": [
+        [
+          55.34937933411378,
+          -32.651155193415605
+        ],
+        [
+          55.34942034837377,
+          -32.64903920875361
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030451 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102224 <br/> downstream node: -102487 <br/> </p>"
+    },
+    "-1030450": {
+      "geometry": [
+        [
+          55.34952817384615,
+          -32.64904856281914
+        ],
+        [
+          55.349487159586154,
+          -32.651164547457135
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030450 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102487 <br/> downstream node: -102224 <br/> </p>"
+    },
+    "-1030971": {
+      "geometry": [
+        [
+          55.34994523841615,
+          -32.64502275877877
+        ],
+        [
+          55.35033644454614,
+          -32.64507454526806
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030971 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102533 <br/> downstream node: -102539 <br/> </p>"
+    },
+    "-1030970": {
+      "geometry": [
+        [
+          55.35032834684079,
+          -32.64534833082396
+        ],
+        [
+          55.3499371407108,
+          -32.64529653763325
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030970 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102539 <br/> downstream node: -102533 <br/> </p>"
+    },
+    "-1030981": {
+      "geometry": [
+        [
+          55.348141893923035,
+          -32.64485616860482
+        ],
+        [
+          55.34897902428304,
+          -32.64494494399845
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030981 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102536 <br/> downstream node: -102538 <br/> </p>"
+    },
+    "-1030980": {
+      "geometry": [
+        [
+          55.34897253026375,
+          -32.645218982919076
+        ],
+        [
+          55.348135399903754,
+          -32.645130193172726
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030980 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102538 <br/> downstream node: -102536 <br/> </p>"
+    },
+    "-1030991": {
+      "geometry": [
+        [
+          55.348979390824084,
+          -32.64494500342884
+        ],
+        [
+          55.34957462602408,
+          -32.64501528452804
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030991 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102538 <br/> downstream node: -102537 <br/> </p>"
+    },
+    "-1030990": {
+      "geometry": [
+        [
+          55.34956739892276,
+          -32.645289214786956
+        ],
+        [
+          55.34897216372276,
+          -32.64521892348616
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1030990 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102537 <br/> downstream node: -102538 <br/> </p>"
+    },
+    "-1031001": {
+      "geometry": [
+        [
+          55.34957162543451,
+          -32.64501498506372
+        ],
+        [
+          55.34994180252452,
+          -32.64502238043447
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031001 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102537 <br/> downstream node: -102533 <br/> </p>"
+    },
+    "-1031000": {
+      "geometry": [
+        [
+          55.349940576602016,
+          -32.64529691600129
+        ],
+        [
+          55.34957039951202,
+          -32.64528951427204
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031000 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102533 <br/> downstream node: -102537 <br/> </p>"
+    },
+    "-1031011": {
+      "geometry": [
+        [
+          55.349529731452414,
+          -32.644325513878016
+        ],
+        [
+          55.349551815972426,
+          -32.64335630411042
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031011 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102535 <br/> downstream node: -102542 <br/> </p>"
+    },
+    "-1031010": {
+      "geometry": [
+        [
+          55.349659617547466,
+          -32.64336729814455
+        ],
+        [
+          55.34963753302747,
+          -32.64433650789695
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031010 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102542 <br/> downstream node: -102535 <br/> </p>"
+    },
+    "-1031021": {
+      "geometry": [
+        [
+          55.349479357838256,
+          -32.6460372916913
+        ],
+        [
+          55.34951721705826,
+          -32.64514206738719
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031021 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102534 <br/> downstream node: -102537 <br/> </p>"
+    },
+    "-1031020": {
+      "geometry": [
+        [
+          55.349624807961334,
+          -32.64516243198048
+        ],
+        [
+          55.349586948741326,
+          -32.64605765623636
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031020 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102537 <br/> downstream node: -102534 <br/> </p>"
+    },
+    "-1031081": {
+      "geometry": [
+        [
+          55.349470799678905,
+          -32.64732583584707
+        ],
+        [
+          55.34947921283889,
+          -32.64604588708623
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031081 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102488 <br/> downstream node: -102534 <br/> </p>"
+    },
+    "-1031080": {
+      "geometry": [
+        [
+          55.349587093741086,
+          -32.64604906081808
+        ],
+        [
+          55.34957868058109,
+          -32.64732900957725
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031080 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102534 <br/> downstream node: -102488 <br/> </p>"
+    },
+    "-1031281": {
+      "geometry": [
+        [
+          55.34951708814565,
+          -32.64514854093582
+        ],
+        [
+          55.34952970787565,
+          -32.64432730214289
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031281 <br/> lane number: 1<br/>speed limit: 25mph <br/>upstream node: -102537 <br/> downstream node: -102535 <br/> </p>"
+    },
+    "-1031280": {
+      "geometry": [
+        [
+          55.34963755660429,
+          -32.64433471962722
+        ],
+        [
+          55.34962493687429,
+          -32.645155958414286
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> segment id: -1031280 <br/> lane number: 2<br/>speed limit: 25mph <br/>upstream node: -102535 <br/> downstream node: -102537 <br/> </p>"
+    }
+  },
+  "nodes": {
+    "-101752": {
+      "geometry": [
+        55.34897323084,
+        -32.67176295749
+      ],
+      "tag": "<p> node id: -101752<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101754": {
+      "geometry": [
+        55.3490139657,
+        -32.6705138748
+      ],
+      "tag": "<p> node id: -101754<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-101754')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-101754')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-101754')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-101754')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.348974279573945,
+                -32.67097678252538
+              ],
+              [
+                55.34899604454394,
+                -32.67051013391028
+              ]
+            ],
+            [
+              [
+                55.34904989564541,
+                -32.669613111739515
+              ],
+              [
+                55.349031936045414,
+                -32.670515475497716
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.34893843726161,
+                -32.670969300811834
+              ],
+              [
+                55.348960202231616,
+                -32.67050265218655
+              ]
+            ],
+            [
+              [
+                55.34908583633619,
+                -32.66961631316226
+              ],
+              [
+                55.349067876736186,
+                -32.67051867691686
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.34948945936929,
+                -32.670585229829605
+              ],
+              [
+                55.349013415879284,
+                -32.67055960963738
+              ]
+            ],
+            [
+              [
+                55.34862763330231,
+                -32.6704425903693
+              ],
+              [
+                55.349014640622286,
+                -32.67046815082216
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.34948835932418,
+                -32.67067670217857
+              ],
+              [
+                55.34901231583419,
+                -32.6706510792619
+              ]
+            ],
+            [
+              [
+                55.3486289827436,
+                -32.67035114456629
+              ],
+              [
+                55.34901599006359,
+                -32.67037670280489
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-101755": {
+      "geometry": [
+        55.34898768705,
+        -32.67141897938
+      ],
+      "tag": "<p> node id: -101755<br/>type: ordinary<br/>v/c ratio: 1</p>",
+      "type": "ordinary",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101771": {
+      "geometry": [
+        55.34843745552,
+        -32.67047427706
+      ],
+      "tag": "<p> node id: -101771<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101772": {
+      "geometry": [
+        55.34862695838,
+        -32.67048831324
+      ],
+      "tag": "<p> node id: -101772<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101773": {
+      "geometry": [
+        55.34899220073,
+        -32.67098052341
+      ],
+      "tag": "<p> node id: -101773<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101775": {
+      "geometry": [
+        55.34949000919,
+        -32.67053949363
+      ],
+      "tag": "<p> node id: -101775<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101776": {
+      "geometry": [
+        55.34990978322,
+        -32.67056756598
+      ],
+      "tag": "<p> node id: -101776<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101779": {
+      "geometry": [
+        55.3490319253,
+        -32.66961151104
+      ],
+      "tag": "<p> node id: -101779<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101780": {
+      "geometry": [
+        55.34904788656,
+        -32.66892252893
+      ],
+      "tag": "<p> node id: -101780<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101781": {
+      "geometry": [
+        55.34907023231,
+        -32.66797368341
+      ],
+      "tag": "<p> node id: -101781<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-101781')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-101781')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-101781')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-101781')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.349126459131135,
+                -32.66639386211108
+              ],
+              [
+                55.34908819741114,
+                -32.66797562828642
+              ]
+            ],
+            [
+              [
+                55.349029920612985,
+                -32.66892063531427
+              ],
+              [
+                55.34905226636298,
+                -32.66797178979163
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.34916238933334,
+                -32.66639775190207
+              ],
+              [
+                55.349124127613344,
+                -32.6679795180681
+              ]
+            ],
+            [
+              [
+                55.34899398871889,
+                -32.668916848110904
+              ],
+              [
+                55.349016334468885,
+                -32.66796800258296
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.348508487181974,
+                -32.66788661549258
+              ],
+              [
+                55.34907098340198,
+                -32.66792796696368
+              ]
+            ],
+            [
+              [
+                55.34931501678396,
+                -32.66803817928763
+              ],
+              [
+                55.34906945121397,
+                -32.668019396615264
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.34850998896291,
+                -32.66779518574921
+              ],
+              [
+                55.3490724851829,
+                -32.66783653400253
+              ]
+            ],
+            [
+              [
+                55.34931345418897,
+                -32.668129607031595
+              ],
+              [
+                55.34906788861898,
+                -32.66811082295452
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-101826": {
+      "geometry": [
+        55.3497472806,
+        -32.66804162494
+      ],
+      "tag": "<p> node id: -101826<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101899": {
+      "geometry": [
+        55.34910849403,
+        -32.66639191723
+      ],
+      "tag": "<p> node id: -101899<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101900": {
+      "geometry": [
+        55.34850773609,
+        -32.66793233033
+      ],
+      "tag": "<p> node id: -101900<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101901": {
+      "geometry": [
+        55.34798068722,
+        -32.6678948513
+      ],
+      "tag": "<p> node id: -101901<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101902": {
+      "geometry": [
+        55.34931579788,
+        -32.66799246538
+      ],
+      "tag": "<p> node id: -101902<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101936": {
+      "geometry": [
+        55.3486048723,
+        -32.66319658389
+      ],
+      "tag": "<p> node id: -101936<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101937": {
+      "geometry": [
+        55.3486781502,
+        -32.6591078544
+      ],
+      "tag": "<p> node id: -101937<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101939": {
+      "geometry": [
+        55.35007719379,
+        -32.66328987281
+      ],
+      "tag": "<p> node id: -101939<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101940": {
+      "geometry": [
+        55.34928601707,
+        -32.65736481153
+      ],
+      "tag": "<p> node id: -101940<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101944": {
+      "geometry": [
+        55.34879437436,
+        -32.66321062007
+      ],
+      "tag": "<p> node id: -101944<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101945": {
+      "geometry": [
+        55.34989545432,
+        -32.65921286703
+      ],
+      "tag": "<p> node id: -101945<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101946": {
+      "geometry": [
+        55.34913858205,
+        -32.66486440224
+      ],
+      "tag": "<p> node id: -101946<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101948": {
+      "geometry": [
+        55.34919933958,
+        -32.66233381787
+      ],
+      "tag": "<p> node id: -101948<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101953": {
+      "geometry": [
+        55.349223714,
+        -32.66015032912
+      ],
+      "tag": "<p> node id: -101953<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101955": {
+      "geometry": [
+        55.34924605964,
+        -32.65915709232
+      ],
+      "tag": "<p> node id: -101955<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-101955')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-101955')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-101955')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-101955')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.34927770719466,
+                -32.65858089296487
+              ],
+              [
+                55.349264025434664,
+                -32.65915899528324
+              ]
+            ],
+            [
+              [
+                55.349205746708314,
+                -32.660148519982265
+              ],
+              [
+                55.349228092348326,
+                -32.659155283179736
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.3493136387839,
+                -32.65858469892283
+              ],
+              [
+                55.3492999570239,
+                -32.65916280123794
+              ]
+            ],
+            [
+              [
+                55.34916981212491,
+                -32.66014490173362
+              ],
+              [
+                55.34919215776492,
+                -32.65915166492603
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.34892840371402,
+                -32.659084831710096
+              ],
+              [
+                55.34924691122402,
+                -32.65911138677929
+              ]
+            ],
+            [
+              [
+                55.34989457740851,
+                -32.65925857134309
+              ],
+              [
+                55.34924518272851,
+                -32.6592027947761
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.34893010647939,
+                -32.65899342237263
+              ],
+              [
+                55.349248613989396,
+                -32.65901997562019
+              ]
+            ],
+            [
+              [
+                55.349892823183005,
+                -32.65934997988927
+              ],
+              [
+                55.349243428503,
+                -32.659294199608325
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-101956": {
+      "geometry": [
+        55.34918138004,
+        -32.66323618163
+      ],
+      "tag": "<p> node id: -101956<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-101956')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-101956')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-101956')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-101956')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.34921730992539,
+                -32.662335418587695
+              ],
+              [
+                55.3491993503854,
+                -32.663237782345895
+              ]
+            ],
+            [
+              [
+                55.34912061988234,
+                -32.664862289165754
+              ],
+              [
+                55.34916341787235,
+                -32.6632340685501
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.34925325061613,
+                -32.6623386200468
+              ],
+              [
+                55.34923529107613,
+                -32.66324098380141
+              ]
+            ],
+            [
+              [
+                55.34908469554694,
+                -32.66485806304862
+              ],
+              [
+                55.34912749353694,
+                -32.66322984242165
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.348795049282295,
+                -32.66316489672037
+              ],
+              [
+                55.349182054962306,
+                -32.663190457173215
+              ]
+            ],
+            [
+              [
+                55.34965687170929,
+                -32.663307537138664
+              ],
+              [
+                55.349180830219304,
+                -32.66328191694643
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.348796398723614,
+                -32.66307344995949
+              ],
+              [
+                55.34918340440362,
+                -32.66309900819805
+              ]
+            ],
+            [
+              [
+                55.34965577166422,
+                -32.66339901044578
+              ],
+              [
+                55.34917973017423,
+                -32.66337338752908
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-101957": {
+      "geometry": [
+        55.35078122982,
+        -32.65930641787
+      ],
+      "tag": "<p> node id: -101957<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101959": {
+      "geometry": [
+        55.3492597414,
+        -32.65857899
+      ],
+      "tag": "<p> node id: -101959<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101963": {
+      "geometry": [
+        55.34965742153,
+        -32.66326180046
+      ],
+      "tag": "<p> node id: -101963<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-101965": {
+      "geometry": [
+        55.34892755213,
+        -32.65913053634
+      ],
+      "tag": "<p> node id: -101965<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102206": {
+      "geometry": [
+        55.34931125549,
+        -32.6563166582
+      ],
+      "tag": "<p> node id: -102206<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-102206')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-102206')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-102206')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-102206')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.34926805182137,
+                -32.65736287545585
+              ],
+              [
+                55.34929329024136,
+                -32.656314722122794
+              ]
+            ],
+            [
+              [
+                55.34935446283984,
+                -32.655179063238734
+              ],
+              [
+                55.34932922320984,
+                -32.65631843958591
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.34923212132404,
+                -32.657359003336246
+              ],
+              [
+                55.34925735974404,
+                -32.65631084999708
+              ]
+            ],
+            [
+              [
+                55.349390398279475,
+                -32.65518262604259
+              ],
+              [
+                55.349365158649476,
+                -32.656322002384144
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.348391389997275,
+                -32.65614526571824
+              ],
+              [
+                55.34931264723728,
+                -32.656271038398785
+              ]
+            ],
+            [
+              [
+                55.349727162692965,
+                -32.656384591130646
+              ],
+              [
+                55.34931071097296,
+                -32.65636239429891
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.3483941730921,
+                -32.6560540312483
+              ],
+              [
+                55.349315430332105,
+                -32.65617979866994
+              ]
+            ],
+            [
+              [
+                55.3497260732552,
+                -32.656476065662176
+              ],
+              [
+                55.34930962153519,
+                -32.656453866446974
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-102212": {
+      "geometry": [
+        55.34972770721,
+        -32.65633885384
+      ],
+      "tag": "<p> node id: -102212<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102213": {
+      "geometry": [
+        55.35023669781,
+        -32.65639064368
+      ],
+      "tag": "<p> node id: -102213<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102215": {
+      "geometry": [
+        55.34933649512,
+        -32.65517728185
+      ],
+      "tag": "<p> node id: -102215<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102217": {
+      "geometry": [
+        55.34934070172,
+        -32.65460759367
+      ],
+      "tag": "<p> node id: -102217<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102219": {
+      "geometry": [
+        55.34938697431,
+        -32.65381594907
+      ],
+      "tag": "<p> node id: -102219<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-102219')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-102219')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-102219')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-102219')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.34932281464045,
+                -32.654602914308214
+              ],
+              [
+                55.349369087230464,
+                -32.65381126969467
+              ]
+            ],
+            [
+              [
+                55.349451219766884,
+                -32.65116127180544
+              ],
+              [
+                55.34940494722688,
+                -32.65381735044137
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.34928704048105,
+                -32.65459355565458
+              ],
+              [
+                55.349333313071064,
+                -32.653801911013936
+              ]
+            ],
+            [
+              [
+                55.349487165600614,
+                -32.651164074577075
+              ],
+              [
+                55.34944089306061,
+                -32.6538201532049
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.3487929409885,
+                -32.65370001007519
+              ],
+              [
+                55.349388178948516,
+                -32.653770294584945
+              ]
+            ],
+            [
+              [
+                55.34971439657281,
+                -32.653883869155955
+              ],
+              [
+                55.349386283352814,
+                -32.65386167257728
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.34879534986464,
+                -32.653608704396
+              ],
+              [
+                55.349390587824644,
+                -32.65367898550526
+              ]
+            ],
+            [
+              [
+                55.34971301425517,
+                -32.65397531798479
+              ],
+              [
+                55.349384901035165,
+                -32.65395311952875
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-102221": {
+      "geometry": [
+        55.35008105675,
+        -32.65387513745
+      ],
+      "tag": "<p> node id: -102221<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102222": {
+      "geometry": [
+        55.34971508753,
+        -32.65383814471
+      ],
+      "tag": "<p> node id: -102222<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102224": {
+      "geometry": [
+        55.34943324685,
+        -32.65115987043
+      ],
+      "tag": "<p> node id: -102224<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102225": {
+      "geometry": [
+        55.34838999825,
+        -32.65619088289
+      ],
+      "tag": "<p> node id: -102225<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102226": {
+      "geometry": [
+        55.34757388946,
+        -32.65610210031
+      ],
+      "tag": "<p> node id: -102226<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102385": {
+      "geometry": [
+        55.34879173635,
+        -32.65374566286
+      ],
+      "tag": "<p> node id: -102385<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102386": {
+      "geometry": [
+        55.3484509954,
+        -32.65368647448
+      ],
+      "tag": "<p> node id: -102386<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102482": {
+      "geometry": [
+        55.34813864695,
+        -32.64794520144
+      ],
+      "tag": "<p> node id: -102482<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102483": {
+      "geometry": [
+        55.35074463026,
+        -32.64817825569
+      ],
+      "tag": "<p> node id: -102483<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102484": {
+      "geometry": [
+        55.35005055945,
+        -32.64814126296
+      ],
+      "tag": "<p> node id: -102484<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102485": {
+      "geometry": [
+        55.34951212038,
+        -32.6481486615
+      ],
+      "tag": "<p> node id: -102485<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-102485')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-102485')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-102485')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-102485')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.34954271491811,
+                -32.64732865894853
+              ],
+              [
+                55.34953009516811,
+                -32.64814989773757
+              ]
+            ],
+            [
+              [
+                55.34945632929279,
+                -32.64904049169001
+              ],
+              [
+                55.34949418856279,
+                -32.64814526740197
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.349578664494295,
+                -32.647331131443906
+              ],
+              [
+                55.34956604474429,
+                -32.64815237023099
+              ]
+            ],
+            [
+              [
+                55.34942046565822,
+                -32.64903370356051
+              ],
+              [
+                55.349458324928214,
+                -32.648138479256396
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.35005070004742,
+                -32.64818702075495
+              ],
+              [
+                55.34951226097741,
+                -32.64819441775344
+              ]
+            ],
+            [
+              [
+                55.34878387151143,
+                -32.647988409993545
+              ],
+              [
+                55.34951372053144,
+                -32.64810308540238
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.3500509808379,
+                -32.64827853635767
+              ],
+              [
+                55.349512541767886,
+                -32.64828593027313
+              ]
+            ],
+            [
+              [
+                55.348787071416105,
+                -32.647897261815594
+              ],
+              [
+                55.3495169204361,
+                -32.648011933062094
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-102486": {
+      "geometry": [
+        55.34878227136,
+        -32.64803398401
+      ],
+      "tag": "<p> node id: -102486<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102487": {
+      "geometry": [
+        55.34947426111,
+        -32.64904388578
+      ],
+      "tag": "<p> node id: -102487<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102488": {
+      "geometry": [
+        55.34952474013,
+        -32.64732742271
+      ],
+      "tag": "<p> node id: -102488<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102533": {
+      "geometry": [
+        55.3499411896,
+        -32.64515964822
+      ],
+      "tag": "<p> node id: -102533<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102534": {
+      "geometry": [
+        55.34953315329,
+        -32.64604747395
+      ],
+      "tag": "<p> node id: -102534<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102535": {
+      "geometry": [
+        55.34958363224,
+        -32.64433101088
+      ],
+      "tag": "<p> node id: -102535<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102536": {
+      "geometry": [
+        55.34813864695,
+        -32.6449931809
+      ],
+      "tag": "<p> node id: -102536<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102537": {
+      "geometry": [
+        55.34957101251,
+        -32.64515224967
+      ],
+      "tag": "<p> node id: -102537<br/>type: signalized<br/>v/c ratio: 1<br /> <button onclick= \"clickPhaseButton('phase1', '-102537')\"> Phase1 </button>:  <br /> <button onclick= \"clickPhaseButton('phase2', '-102537')\"> Phase2 </button>:  <br /> <button onclick= \"clickPhaseButton('phase3', '-102537')\"> Phase3 </button>:  <br /> <button onclick= \"clickPhaseButton('phase4', '-102537')\"> Phase4 </button>:  </p>",
+      "type": "signalized",
+      "color": "#ff0000",
+      "phases": {
+        "phase1": {
+          "geometry": [
+            [
+              [
+                55.3495152214728,
+                -32.64604407984693
+              ],
+              [
+                55.3495530806928,
+                -32.6451488555589
+              ]
+            ],
+            [
+              [
+                55.349601607028106,
+                -32.64433224712297
+              ],
+              [
+                55.349588987298105,
+                -32.64515348591199
+              ]
+            ]
+          ]
+        },
+        "phase2": {
+          "geometry": [
+            [
+              [
+                55.349479357838256,
+                -32.6460372916913
+              ],
+              [
+                55.34951721705826,
+                -32.64514206738719
+              ]
+            ],
+            [
+              [
+                55.34963755660429,
+                -32.64433471962722
+              ],
+              [
+                55.34962493687429,
+                -32.645155958414286
+              ]
+            ]
+          ]
+        },
+        "phase3": {
+          "geometry": [
+            [
+              [
+                55.348976981948326,
+                -32.645036310159476
+              ],
+              [
+                55.349572217148314,
+                -32.64510659465921
+              ]
+            ],
+            [
+              [
+                55.349940985402114,
+                -32.64520540415332
+              ],
+              [
+                55.34957080831212,
+                -32.64519800454357
+              ]
+            ]
+          ]
+        },
+        "phase4": {
+          "geometry": [
+            [
+              [
+                55.348979390824084,
+                -32.64494500342884
+              ],
+              [
+                55.34957462602408,
+                -32.64501528452804
+              ]
+            ],
+            [
+              [
+                55.349940576602016,
+                -32.64529691600129
+              ],
+              [
+                55.34957039951202,
+                -32.64528951427204
+              ]
+            ]
+          ]
+        }
+      }
+    },
+    "-102538": {
+      "geometry": [
+        55.34897577731,
+        -32.64508196347
+      ],
+      "tag": "<p> node id: -102538<br/>type: connector<br/>v/c ratio: 1</p>",
+      "type": "connector",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102539": {
+      "geometry": [
+        55.35033239573,
+        -32.64521143806
+      ],
+      "tag": "<p> node id: -102539<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    },
+    "-102542": {
+      "geometry": [
+        55.34960571676,
+        -32.64336180112
+      ],
+      "tag": "<p> node id: -102542<br/>type: end<br/>v/c ratio: 1</p>",
+      "type": "end",
+      "color": "#ff0000",
+      "phases": {}
+    }
+  },
+  "links": {
+    "-101752_-101754": {
+      "geometry": [
+        [
+          55.34891929562419,
+          -32.67176047255761
+        ],
+        [
+          55.34893375183418,
+          -32.67141649444536
+        ],
+        [
+          55.348938265514185,
+          -32.67097803847465
+        ],
+        [
+          55.348960202231616,
+          -32.67050265218655
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101752_-101754</p>"
+    },
+    "-101754_-101776": {
+      "geometry": [
+        [
+          55.349015615492405,
+          -32.67037667032667
+        ],
+        [
+          55.34949165898241,
+          -32.67040228507001
+        ],
+        [
+          55.349911832806825,
+          -32.670430388721776
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101754_-101776</p>"
+    },
+    "-101754_-101752": {
+      "geometry": [
+        [
+          55.3490677291679,
+          -32.67052509744393
+        ],
+        [
+          55.349045964197906,
+          -32.670991746038645
+        ],
+        [
+          55.34904148434525,
+          -32.6714290980384
+        ],
+        [
+          55.34902702813525,
+          -32.67177307613925
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101754_-101752</p>"
+    },
+    "-101754_-101781": {
+      "geometry": [
+        [
+          55.34896005466373,
+          -32.67050907269622
+        ],
+        [
+          55.348978014263736,
+          -32.66960670893082
+        ],
+        [
+          55.348993987225796,
+          -32.668916940593064
+        ],
+        [
+          55.349016334468885,
+          -32.66796800258296
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101754_-101781</p>"
+    },
+    "-101754_-101771": {
+      "geometry": [
+        [
+          55.349011941263036,
+          -32.670651046781096
+        ],
+        [
+          55.34862493394302,
+          -32.67062548189969
+        ],
+        [
+          55.34843518569281,
+          -32.67061141921983
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101754_-101771</p>"
+    },
+    "-101771_-101754": {
+      "geometry": [
+        [
+          55.348439725273835,
+          -32.670337134884456
+        ],
+        [
+          55.34862922813385,
+          -32.67035116943842
+        ],
+        [
+          55.34901599006359,
+          -32.67037670280489
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101771_-101754</p>"
+    },
+    "-101776_-101754": {
+      "geometry": [
+        [
+          55.34990773355981,
+          -32.67070474322403
+        ],
+        [
+          55.3494879595298,
+          -32.6706766672712
+        ],
+        [
+          55.34901231583419,
+          -32.6706510792619
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101776_-101754</p>"
+    },
+    "-101781_-101901": {
+      "geometry": [
+        [
+          55.34906797936376,
+          -32.668110832801865
+        ],
+        [
+          55.34850548314374,
+          -32.66806947489518
+        ],
+        [
+          55.34797850785172,
+          -32.66803199904089
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101781_-101901</p>"
+    },
+    "-101781_-101826": {
+      "geometry": [
+        [
+          55.34907257592769,
+          -32.66783654384925
+        ],
+        [
+          55.34931814149769,
+          -32.66785532371218
+        ],
+        [
+          55.349750767642064,
+          -32.667904637059955
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101781_-101826</p>"
+    },
+    "-101781_-101956": {
+      "geometry": [
+        [
+          55.34901633700653,
+          -32.66796784876777
+        ],
+        [
+          55.34905459872654,
+          -32.666386082573815
+        ],
+        [
+          55.349084670336254,
+          -32.66485964960346
+        ],
+        [
+          55.34912749353694,
+          -32.66322984242165
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101781_-101956</p>"
+    },
+    "-101781_-101754": {
+      "geometry": [
+        [
+          55.349124130151004,
+          -32.667979364252496
+        ],
+        [
+          55.34910178440099,
+          -32.66892820976456
+        ],
+        [
+          55.34908582463409,
+          -32.66961709938657
+        ],
+        [
+          55.349067876736186,
+          -32.67051867691686
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101781_-101754</p>"
+    },
+    "-101826_-101781": {
+      "geometry": [
+        [
+          55.34974379348476,
+          -32.66817861279592
+        ],
+        [
+          55.349312310764766,
+          -32.66812944953773
+        ],
+        [
+          55.34906788861898,
+          -32.66811082295452
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101826_-101781</p>"
+    },
+    "-101901_-101781": {
+      "geometry": [
+        [
+          55.34798286651492,
+          -32.66775770354401
+        ],
+        [
+          55.348509915384916,
+          -32.66779517805145
+        ],
+        [
+          55.3490724851829,
+          -32.66783653400253
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101901_-101781</p>"
+    },
+    "-101936_-101956": {
+      "geometry": [
+        [
+          55.34860714205383,
+          -32.663059440277934
+        ],
+        [
+          55.348796644113825,
+          -32.663073474831876
+        ],
+        [
+          55.34918340440362,
+          -32.66309900819805
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101936_-101956</p>"
+    },
+    "-101937_-101955": {
+      "geometry": [
+        [
+          55.3486809358674,
+          -32.658970771741394
+        ],
+        [
+          55.34893033779741,
+          -32.658993451542315
+        ],
+        [
+          55.349248613989396,
+          -32.65901997562019
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101937_-101955</p>"
+    },
+    "-101939_-101956": {
+      "geometry": [
+        [
+          55.35007514412982,
+          -32.663427051490906
+        ],
+        [
+          55.34965537186982,
+          -32.663398975538044
+        ],
+        [
+          55.34917973017423,
+          -32.66337338752908
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101939_-101956</p>"
+    },
+    "-101955_-102206": {
+      "geometry": [
+        [
+          55.349192162255974,
+          -32.659151383417594
+        ],
+        [
+          55.34920584401598,
+          -32.658573281092714
+        ],
+        [
+          55.34923211204573,
+          -32.657359590580434
+        ],
+        [
+          55.34925735974404,
+          -32.65631084999708
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101955_-102206</p>"
+    },
+    "-101955_-101956": {
+      "geometry": [
+        [
+          55.34929996151497,
+          -32.659162519728746
+        ],
+        [
+          55.34927761587496,
+          -32.660155756521156
+        ],
+        [
+          55.34925327324154,
+          -32.6623365124456
+        ],
+        [
+          55.34923529107613,
+          -32.66324098380141
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101955_-101956</p>"
+    },
+    "-101955_-101937": {
+      "geometry": [
+        [
+          55.34924350521729,
+          -32.65929420900212
+        ],
+        [
+          55.34892499770729,
+          -32.659267650289685
+        ],
+        [
+          55.34867536445931,
+          -32.65924493703931
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101955_-101937</p>"
+    },
+    "-101955_-101957": {
+      "geometry": [
+        [
+          55.349248690703696,
+          -32.659019985013444
+        ],
+        [
+          55.349898085383685,
+          -32.65907575415251
+        ],
+        [
+          55.35078446318801,
+          -32.6591693808359
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101955_-101957</p>"
+    },
+    "-101956_-101955": {
+      "geometry": [
+        [
+          55.34912746900379,
+          -32.663231379471654
+        ],
+        [
+          55.349145428543785,
+          -32.66232901570626
+        ],
+        [
+          55.34916978033843,
+          -32.66014763454763
+        ],
+        [
+          55.34919215776492,
+          -32.65915166492603
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101956_-101955</p>"
+    },
+    "-101956_-101936": {
+      "geometry": [
+        [
+          55.34917935560301,
+          -32.66337335504792
+        ],
+        [
+          55.34879234992299,
+          -32.66334779016648
+        ],
+        [
+          55.34860260247281,
+          -32.66333372748635
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101956_-101936</p>"
+    },
+    "-101956_-101939": {
+      "geometry": [
+        [
+          55.34918302983237,
+          -32.663098975719485
+        ],
+        [
+          55.34965907132236,
+          -32.663124590462786
+        ],
+        [
+          55.3500792433768,
+          -32.663152694114885
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101956_-101939</p>"
+    },
+    "-101956_-101781": {
+      "geometry": [
+        [
+          55.34923526654291,
+          -32.6632425208556
+        ],
+        [
+          55.34919246855291,
+          -32.66487074144863
+        ],
+        [
+          55.34916240574366,
+          -32.66639666987054
+        ],
+        [
+          55.349124127613344,
+          -32.6679795180681
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101956_-101781</p>"
+    },
+    "-101957_-101955": {
+      "geometry": [
+        [
+          55.35077799637876,
+          -32.65944345488172
+        ],
+        [
+          55.34989222087876,
+          -32.659349896447075
+        ],
+        [
+          55.349243428503,
+          -32.659294199608325
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -101957_-101955</p>"
+    },
+    "-102206_-101955": {
+      "geometry": [
+        [
+          55.34936515123584,
+          -32.65632246641874
+        ],
+        [
+          55.34933991281583,
+          -32.657370619739574
+        ],
+        [
+          55.349313646424164,
+          -32.658584210955205
+        ],
+        [
+          55.3492999570239,
+          -32.65916280123794
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102206_-101955</p>"
+    },
+    "-102206_-102219": {
+      "geometry": [
+        [
+          55.34925735233042,
+          -32.656311314030404
+        ],
+        [
+          55.34928259196042,
+          -32.655171937671966
+        ],
+        [
+          55.349286762213055,
+          -32.65460581107711
+        ],
+        [
+          55.349333313071064,
+          -32.653801911013936
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102206_-102219</p>"
+    },
+    "-102206_-102226": {
+      "geometry": [
+        [
+          55.34930708057485,
+          -32.65645351770121
+        ],
+        [
+          55.348385823334866,
+          -32.65632773450285
+        ],
+        [
+          55.34757055904256,
+          -32.656239094784624
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102206_-102226</p>"
+    },
+    "-102206_-102213": {
+      "geometry": [
+        [
+          55.34931288937139,
+          -32.65617944994171
+        ],
+        [
+          55.3497293410914,
+          -32.6562016420065
+        ],
+        [
+          55.350239813295104,
+          -32.65625359363072
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102206_-102213</p>"
+    },
+    "-102213_-102206": {
+      "geometry": [
+        [
+          55.35023358225165,
+          -32.65652769370771
+        ],
+        [
+          55.34972459165166,
+          -32.65647589950319
+        ],
+        [
+          55.34930962153519,
+          -32.656453866446974
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102213_-102206</p>"
+    },
+    "-102219_-102206": {
+      "geometry": [
+        [
+          55.34944063554817,
+          -32.6538299871641
+        ],
+        [
+          55.349394362958186,
+          -32.654621631723465
+        ],
+        [
+          55.34939043462693,
+          -32.65517906444728
+        ],
+        [
+          55.349365158649476,
+          -32.656322002384144
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102219_-102206</p>"
+    },
+    "-102219_-102485": {
+      "geometry": [
+        [
+          55.34933305555933,
+          -32.653811744946545
+        ],
+        [
+          55.349379328099324,
+          -32.65115566629438
+        ],
+        [
+          55.34942034837377,
+          -32.64903920875361
+        ],
+        [
+          55.349458324928214,
+          -32.648138479256396
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102219_-102485</p>"
+    },
+    "-102219_-102386": {
+      "geometry": [
+        [
+          55.34938336072221,
+          -32.653952912609746
+        ],
+        [
+          55.34878812276222,
+          -32.653882621299005
+        ],
+        [
+          55.34844569335254,
+          -32.65382307368972
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102219_-102386</p>"
+    },
+    "-102219_-102221": {
+      "geometry": [
+        [
+          55.349389047511465,
+          -32.653678778596884
+        ],
+        [
+          55.34971716073146,
+          -32.65370097142085
+        ],
+        [
+          55.35008415183932,
+          -32.65373808574259
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102219_-102221</p>"
+    },
+    "-102221_-102219": {
+      "geometry": [
+        [
+          55.35007796158746,
+          -32.65401218913599
+        ],
+        [
+          55.349711992367446,
+          -32.65397519325781
+        ],
+        [
+          55.349384901035165,
+          -32.65395311952875
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102221_-102219</p>"
+    },
+    "-102226_-102206": {
+      "geometry": [
+        [
+          55.34757721980426,
+          -32.65596510581234
+        ],
+        [
+          55.34839332859425,
+          -32.6560538813972
+        ],
+        [
+          55.349315430332105,
+          -32.65617979866994
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102226_-102206</p>"
+    },
+    "-102386_-102219": {
+      "geometry": [
+        [
+          55.34845629737468,
+          -32.6535498752337
+        ],
+        [
+          55.34879703832468,
+          -32.65360906070152
+        ],
+        [
+          55.349390587824644,
+          -32.65367898550526
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102386_-102219</p>"
+    },
+    "-102482_-102485": {
+      "geometry": [
+        [
+          55.34814286486627,
+          -32.64780836050239
+        ],
+        [
+          55.34878648927628,
+          -32.64789713756182
+        ],
+        [
+          55.3495169204361,
+          -32.648011933062094
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102482_-102485</p>"
+    },
+    "-102483_-102485": {
+      "geometry": [
+        [
+          55.35074299630536,
+          -32.648315476242914
+        ],
+        [
+          55.35004892549535,
+          -32.64827847755393
+        ],
+        [
+          55.349512541767886,
+          -32.64828593027313
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102483_-102485</p>"
+    },
+    "-102485_-102537": {
+      "geometry": [
+        [
+          55.349458196015654,
+          -32.64814495277912
+        ],
+        [
+          55.34947081576565,
+          -32.64732371398619
+        ],
+        [
+          55.34947921283889,
+          -32.64604588708623
+        ],
+        [
+          55.34951721705826,
+          -32.64514206738719
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102485_-102537</p>"
+    },
+    "-102485_-102219": {
+      "geometry": [
+        [
+          55.34956591583138,
+          -32.64815884377128
+        ],
+        [
+          55.34952805656138,
+          -32.64905406802716
+        ],
+        [
+          55.349487159586154,
+          -32.651164547457135
+        ],
+        [
+          55.34944089306061,
+          -32.6538201532049
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102485_-102219</p>"
+    },
+    "-102485_-102483": {
+      "geometry": [
+        [
+          55.34951169891863,
+          -32.6480113927298
+        ],
+        [
+          55.35005013798863,
+          -32.64800398956526
+        ],
+        [
+          55.35074626414124,
+          -32.648041035125765
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102485_-102483</p>"
+    },
+    "-102485_-102482": {
+      "geometry": [
+        [
+          55.349507320251,
+          -32.64828538990477
+        ],
+        [
+          55.34877747123101,
+          -32.648170706171264
+        ],
+        [
+          55.348134428960705,
+          -32.64808204234846
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102485_-102482</p>"
+    },
+    "-102536_-102537": {
+      "geometry": [
+        [
+          55.348141893923035,
+          -32.64485616860482
+        ],
+        [
+          55.34897902428304,
+          -32.64494494399845
+        ],
+        [
+          55.34957462602408,
+          -32.64501528452804
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102536_-102537</p>"
+    },
+    "-102537_-102536": {
+      "geometry": [
+        [
+          55.34956739892276,
+          -32.645289214786956
+        ],
+        [
+          55.34897216372276,
+          -32.64521892348616
+        ],
+        [
+          55.348135399903754,
+          -32.645130193172726
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102537_-102536</p>"
+    },
+    "-102537_-102539": {
+      "geometry": [
+        [
+          55.34957162543451,
+          -32.64501498506372
+        ],
+        [
+          55.34994180252452,
+          -32.64502238043447
+        ],
+        [
+          55.35033644454614,
+          -32.64507454526806
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102537_-102539</p>"
+    },
+    "-102537_-102485": {
+      "geometry": [
+        [
+          55.349624807961334,
+          -32.64516243198048
+        ],
+        [
+          55.349586948741326,
+          -32.64605765623636
+        ],
+        [
+          55.34957868058109,
+          -32.64732900957725
+        ],
+        [
+          55.34956604474429,
+          -32.64815237023099
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102537_-102485</p>"
+    },
+    "-102537_-102542": {
+      "geometry": [
+        [
+          55.34951708814565,
+          -32.64514854093582
+        ],
+        [
+          55.34952970787565,
+          -32.64432730214289
+        ],
+        [
+          55.349551815972426,
+          -32.64335630411042
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102537_-102542</p>"
+    },
+    "-102539_-102537": {
+      "geometry": [
+        [
+          55.35032834684079,
+          -32.64534833082396
+        ],
+        [
+          55.3499371407108,
+          -32.64529653763325
+        ],
+        [
+          55.34957039951202,
+          -32.64528951427204
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102539_-102537</p>"
+    },
+    "-102542_-102537": {
+      "geometry": [
+        [
+          55.349659617547466,
+          -32.64336729814455
+        ],
+        [
+          55.34963753302747,
+          -32.64433650789695
+        ],
+        [
+          55.34962493687429,
+          -32.645155958414286
+        ]
+      ],
+      "type": "arrow",
+      "tag": "<p> link id: -102542_-102537</p>"
+    }
+  },
+  "lanesets": {
+    "-1017821_0": {
+      "geometry": [
+        [
+          55.34904599802525,
+          -32.67099064207126
+        ],
+        [
+          55.34904148434525,
+          -32.6714290980384
+        ],
+        [
+          55.34902702813525,
+          -32.67177307613925
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1017821_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018011_1": {
+      "geometry": [
+        [
+          55.34948945936929,
+          -32.670585229829605
+        ],
+        [
+          55.349013415879284,
+          -32.67055960963738
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018011_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1018011_0": {
+      "geometry": [
+        [
+          55.34948835932418,
+          -32.67067670217857
+        ],
+        [
+          55.34901231583419,
+          -32.6706510792619
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018011_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1018080_1": {
+      "geometry": [
+        [
+          55.348974279573945,
+          -32.67097678252538
+        ],
+        [
+          55.34899604454394,
+          -32.67051013391028
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018080_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1018080_0": {
+      "geometry": [
+        [
+          55.34893843726161,
+          -32.670969300811834
+        ],
+        [
+          55.348960202231616,
+          -32.67050265218655
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018080_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1018481_1": {
+      "geometry": [
+        [
+          55.34904989564541,
+          -32.669613111739515
+        ],
+        [
+          55.349031936045414,
+          -32.670515475497716
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018481_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1018481_0": {
+      "geometry": [
+        [
+          55.34908583633619,
+          -32.66961631316226
+        ],
+        [
+          55.349067876736186,
+          -32.67051867691686
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018481_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1020760_1": {
+      "geometry": [
+        [
+          55.34862763330231,
+          -32.6704425903693
+        ],
+        [
+          55.349014640622286,
+          -32.67046815082216
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020760_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1020760_0": {
+      "geometry": [
+        [
+          55.3486289827436,
+          -32.67035114456629
+        ],
+        [
+          55.34901599006359,
+          -32.67037670280489
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020760_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1020751_0": {
+      "geometry": [
+        [
+          55.3486246885528,
+          -32.670625457025864
+        ],
+        [
+          55.34843518569281,
+          -32.67061141921983
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020751_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020750_0": {
+      "geometry": [
+        [
+          55.348439725273835,
+          -32.670337134884456
+        ],
+        [
+          55.34862922813385,
+          -32.67035116943842
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020750_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020761_0": {
+      "geometry": [
+        [
+          55.349011941263036,
+          -32.670651046781096
+        ],
+        [
+          55.34862493394302,
+          -32.67062548189969
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020761_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1017820_0": {
+      "geometry": [
+        [
+          55.34891929562419,
+          -32.67176047255761
+        ],
+        [
+          55.34893375183418,
+          -32.67141649444536
+        ],
+        [
+          55.348938265514185,
+          -32.67097803847465
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1017820_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018081_0": {
+      "geometry": [
+        [
+          55.3490677291679,
+          -32.67052509744393
+        ],
+        [
+          55.349045964197906,
+          -32.670991746038645
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018081_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018010_0": {
+      "geometry": [
+        [
+          55.349015615492405,
+          -32.67037667032667
+        ],
+        [
+          55.34949165898241,
+          -32.67040228507001
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018010_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020561_0": {
+      "geometry": [
+        [
+          55.34990773355981,
+          -32.67070474322403
+        ],
+        [
+          55.3494879595298,
+          -32.6706766672712
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020561_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020560_0": {
+      "geometry": [
+        [
+          55.34949205877682,
+          -32.670402319974606
+        ],
+        [
+          55.349911832806825,
+          -32.670430388721776
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020560_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018051_0": {
+      "geometry": [
+        [
+          55.349101785894085,
+          -32.66892811728215
+        ],
+        [
+          55.34908582463409,
+          -32.66961709938657
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018051_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018480_0": {
+      "geometry": [
+        [
+          55.34896005466373,
+          -32.67050907269622
+        ],
+        [
+          55.348978014263736,
+          -32.66960670893082
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018480_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018050_0": {
+      "geometry": [
+        [
+          55.3489780259658,
+          -32.66960592270865
+        ],
+        [
+          55.348993987225796,
+          -32.668916940593064
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018050_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018521_0": {
+      "geometry": [
+        [
+          55.349124130151004,
+          -32.667979364252496
+        ],
+        [
+          55.34910178440099,
+          -32.66892820976456
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018521_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018031_1": {
+      "geometry": [
+        [
+          55.348508487181974,
+          -32.66788661549258
+        ],
+        [
+          55.34907098340198,
+          -32.66792796696368
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018031_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1018031_0": {
+      "geometry": [
+        [
+          55.34850998896291,
+          -32.66779518574921
+        ],
+        [
+          55.3490724851829,
+          -32.66783653400253
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018031_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1018391_1": {
+      "geometry": [
+        [
+          55.34931501678396,
+          -32.66803817928763
+        ],
+        [
+          55.34906945121397,
+          -32.668019396615264
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018391_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1018391_0": {
+      "geometry": [
+        [
+          55.34931345418897,
+          -32.668129607031595
+        ],
+        [
+          55.34906788861898,
+          -32.66811082295452
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018391_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1018401_1": {
+      "geometry": [
+        [
+          55.349126459131135,
+          -32.66639386211108
+        ],
+        [
+          55.34908819741114,
+          -32.66797562828642
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018401_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1018401_0": {
+      "geometry": [
+        [
+          55.34916238933334,
+          -32.66639775190207
+        ],
+        [
+          55.349124127613344,
+          -32.6679795180681
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018401_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1018520_1": {
+      "geometry": [
+        [
+          55.349029920612985,
+          -32.66892063531427
+        ],
+        [
+          55.34905226636298,
+          -32.66797178979163
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018520_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1018520_0": {
+      "geometry": [
+        [
+          55.34899398871889,
+          -32.668916848110904
+        ],
+        [
+          55.349016334468885,
+          -32.66796800258296
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018520_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1020530_0": {
+      "geometry": [
+        [
+          55.34931928492207,
+          -32.66785548119815
+        ],
+        [
+          55.349750767642064,
+          -32.667904637059955
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020530_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018400_0": {
+      "geometry": [
+        [
+          55.34901633700653,
+          -32.66796784876777
+        ],
+        [
+          55.34905459872654,
+          -32.666386082573815
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018400_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024361_0": {
+      "geometry": [
+        [
+          55.34919249376366,
+          -32.66486915488948
+        ],
+        [
+          55.34916240574366,
+          -32.66639666987054
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024361_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018030_0": {
+      "geometry": [
+        [
+          55.34906797936376,
+          -32.668110832801865
+        ],
+        [
+          55.34850548314374,
+          -32.66806947489518
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018030_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020081_0": {
+      "geometry": [
+        [
+          55.34798286651492,
+          -32.66775770354401
+        ],
+        [
+          55.348509915384916,
+          -32.66779517805145
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020081_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020080_0": {
+      "geometry": [
+        [
+          55.34850555672173,
+          -32.66806948259345
+        ],
+        [
+          55.34797850785172,
+          -32.66803199904089
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020080_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1018390_0": {
+      "geometry": [
+        [
+          55.34907257592769,
+          -32.66783654384925
+        ],
+        [
+          55.34931814149769,
+          -32.66785532371218
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1018390_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1020531_0": {
+      "geometry": [
+        [
+          55.34974379348476,
+          -32.66817861279592
+        ],
+        [
+          55.349312310764766,
+          -32.66812944953773
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1020531_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021081_0": {
+      "geometry": [
+        [
+          55.34879210453281,
+          -32.6633477652924
+        ],
+        [
+          55.34860260247281,
+          -32.66333372748635
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021081_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021200_0": {
+      "geometry": [
+        [
+          55.34892476638931,
+          -32.6592676211184
+        ],
+        [
+          55.34867536445931,
+          -32.65924493703931
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021200_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021280_0": {
+      "geometry": [
+        [
+          55.3496594711168,
+          -32.66312462536775
+        ],
+        [
+          55.3500792433768,
+          -32.663152694114885
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021280_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021150_0": {
+      "geometry": [
+        [
+          55.34920583637573,
+          -32.65857376905902
+        ],
+        [
+          55.34923211204573,
+          -32.657359590580434
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021150_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024810_0": {
+      "geometry": [
+        [
+          55.34936515123584,
+          -32.65632246641874
+        ],
+        [
+          55.34933991281583,
+          -32.657370619739574
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024810_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021080_0": {
+      "geometry": [
+        [
+          55.34860714205383,
+          -32.663059440277934
+        ],
+        [
+          55.348796644113825,
+          -32.663073474831876
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021080_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021131_0": {
+      "geometry": [
+        [
+          55.34917935560301,
+          -32.66337335504792
+        ],
+        [
+          55.34879234992299,
+          -32.66334779016648
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021131_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021111_0": {
+      "geometry": [
+        [
+          55.35077799637876,
+          -32.65944345488172
+        ],
+        [
+          55.34989222087876,
+          -32.659349896447075
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021111_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021340_0": {
+      "geometry": [
+        [
+          55.349248690703696,
+          -32.659019985013444
+        ],
+        [
+          55.349898085383685,
+          -32.65907575415251
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021340_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021351_0": {
+      "geometry": [
+        [
+          55.34923526654291,
+          -32.6632425208556
+        ],
+        [
+          55.34919246855291,
+          -32.66487074144863
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021351_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024360_0": {
+      "geometry": [
+        [
+          55.34905458231626,
+          -32.666387164602405
+        ],
+        [
+          55.349084670336254,
+          -32.66485964960346
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024360_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021100_0": {
+      "geometry": [
+        [
+          55.34912746900379,
+          -32.663231379471654
+        ],
+        [
+          55.349145428543785,
+          -32.66232901570626
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021100_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021161_0": {
+      "geometry": [
+        [
+          55.34927764766153,
+          -32.66015302369971
+        ],
+        [
+          55.34925327324154,
+          -32.6623365124456
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021161_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021160_0": {
+      "geometry": [
+        [
+          55.34914540591844,
+          -32.66233112330174
+        ],
+        [
+          55.34916978033843,
+          -32.66014763454763
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021160_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021321_0": {
+      "geometry": [
+        [
+          55.34929996151497,
+          -32.659162519728746
+        ],
+        [
+          55.34927761587496,
+          -32.660155756521156
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021321_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021121_1": {
+      "geometry": [
+        [
+          55.34927770719466,
+          -32.65858089296487
+        ],
+        [
+          55.349264025434664,
+          -32.65915899528324
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021121_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1021121_0": {
+      "geometry": [
+        [
+          55.3493136387839,
+          -32.65858469892283
+        ],
+        [
+          55.3492999570239,
+          -32.65916280123794
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021121_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1021320_1": {
+      "geometry": [
+        [
+          55.349205746708314,
+          -32.660148519982265
+        ],
+        [
+          55.349228092348326,
+          -32.659155283179736
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021320_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1021320_0": {
+      "geometry": [
+        [
+          55.34916981212491,
+          -32.66014490173362
+        ],
+        [
+          55.34919215776492,
+          -32.65915166492603
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021320_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1021331_1": {
+      "geometry": [
+        [
+          55.34892840371402,
+          -32.659084831710096
+        ],
+        [
+          55.34924691122402,
+          -32.65911138677929
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021331_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1021331_0": {
+      "geometry": [
+        [
+          55.34893010647939,
+          -32.65899342237263
+        ],
+        [
+          55.349248613989396,
+          -32.65901997562019
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021331_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1021341_1": {
+      "geometry": [
+        [
+          55.34989457740851,
+          -32.65925857134309
+        ],
+        [
+          55.34924518272851,
+          -32.6592027947761
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021341_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1021341_0": {
+      "geometry": [
+        [
+          55.349892823183005,
+          -32.65934997988927
+        ],
+        [
+          55.349243428503,
+          -32.659294199608325
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021341_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1021101_1": {
+      "geometry": [
+        [
+          55.34921730992539,
+          -32.662335418587695
+        ],
+        [
+          55.3491993503854,
+          -32.663237782345895
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021101_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1021101_0": {
+      "geometry": [
+        [
+          55.34925325061613,
+          -32.6623386200468
+        ],
+        [
+          55.34923529107613,
+          -32.66324098380141
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021101_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1021130_1": {
+      "geometry": [
+        [
+          55.348795049282295,
+          -32.66316489672037
+        ],
+        [
+          55.349182054962306,
+          -32.663190457173215
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021130_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1021130_0": {
+      "geometry": [
+        [
+          55.348796398723614,
+          -32.66307344995949
+        ],
+        [
+          55.34918340440362,
+          -32.66309900819805
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021130_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1021191_1": {
+      "geometry": [
+        [
+          55.34965687170929,
+          -32.663307537138664
+        ],
+        [
+          55.349180830219304,
+          -32.66328191694643
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021191_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1021191_0": {
+      "geometry": [
+        [
+          55.34965577166422,
+          -32.66339901044578
+        ],
+        [
+          55.34917973017423,
+          -32.66337338752908
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021191_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1021350_1": {
+      "geometry": [
+        [
+          55.34912061988234,
+          -32.664862289165754
+        ],
+        [
+          55.34916341787235,
+          -32.6632340685501
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021350_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1021350_0": {
+      "geometry": [
+        [
+          55.34908469554694,
+          -32.66485806304862
+        ],
+        [
+          55.34912749353694,
+          -32.66322984242165
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021350_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1021110_0": {
+      "geometry": [
+        [
+          55.349898687688025,
+          -32.65907583759055
+        ],
+        [
+          55.35078446318801,
+          -32.6591693808359
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021110_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021120_0": {
+      "geometry": [
+        [
+          55.349192162255974,
+          -32.659151383417594
+        ],
+        [
+          55.34920584401598,
+          -32.658573281092714
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021120_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021151_0": {
+      "geometry": [
+        [
+          55.34933992209416,
+          -32.65737003249379
+        ],
+        [
+          55.349313646424164,
+          -32.658584210955205
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021151_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021190_0": {
+      "geometry": [
+        [
+          55.34918302983237,
+          -32.663098975719485
+        ],
+        [
+          55.34965907132236,
+          -32.663124590462786
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021190_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021281_0": {
+      "geometry": [
+        [
+          55.35007514412982,
+          -32.663427051490906
+        ],
+        [
+          55.34965537186982,
+          -32.663398975538044
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021281_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021201_0": {
+      "geometry": [
+        [
+          55.3486809358674,
+          -32.658970771741394
+        ],
+        [
+          55.34893033779741,
+          -32.658993451542315
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021201_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1021330_0": {
+      "geometry": [
+        [
+          55.34924350521729,
+          -32.65929420900212
+        ],
+        [
+          55.34892499770729,
+          -32.659267650289685
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1021330_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024811_1": {
+      "geometry": [
+        [
+          55.34926805182137,
+          -32.65736287545585
+        ],
+        [
+          55.34929329024136,
+          -32.656314722122794
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024811_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1024811_0": {
+      "geometry": [
+        [
+          55.34923212132404,
+          -32.657359003336246
+        ],
+        [
+          55.34925735974404,
+          -32.65631084999708
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024811_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1024860_1": {
+      "geometry": [
+        [
+          55.34935446283984,
+          -32.655179063238734
+        ],
+        [
+          55.34932922320984,
+          -32.65631843958591
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024860_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1024860_0": {
+      "geometry": [
+        [
+          55.349390398279475,
+          -32.65518262604259
+        ],
+        [
+          55.349365158649476,
+          -32.656322002384144
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024860_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1024921_1": {
+      "geometry": [
+        [
+          55.348391389997275,
+          -32.65614526571824
+        ],
+        [
+          55.34931264723728,
+          -32.656271038398785
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024921_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1024921_0": {
+      "geometry": [
+        [
+          55.3483941730921,
+          -32.6560540312483
+        ],
+        [
+          55.349315430332105,
+          -32.65617979866994
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024921_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1025350_1": {
+      "geometry": [
+        [
+          55.349727162692965,
+          -32.656384591130646
+        ],
+        [
+          55.34931071097296,
+          -32.65636239429891
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1025350_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1025350_0": {
+      "geometry": [
+        [
+          55.3497260732552,
+          -32.656476065662176
+        ],
+        [
+          55.34930962153519,
+          -32.656453866446974
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1025350_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1024840_0": {
+      "geometry": [
+        [
+          55.35023358225165,
+          -32.65652769370771
+        ],
+        [
+          55.34972459165166,
+          -32.65647589950319
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024840_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1025351_0": {
+      "geometry": [
+        [
+          55.34931288937139,
+          -32.65617944994171
+        ],
+        [
+          55.3497293410914,
+          -32.6562016420065
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1025351_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024841_0": {
+      "geometry": [
+        [
+          55.34973082269512,
+          -32.656201808155245
+        ],
+        [
+          55.350239813295104,
+          -32.65625359363072
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024841_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024861_0": {
+      "geometry": [
+        [
+          55.34925735233042,
+          -32.656311314030404
+        ],
+        [
+          55.34928259196042,
+          -32.655171937671966
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024861_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024870_0": {
+      "geometry": [
+        [
+          55.349394641226944,
+          -32.65460937626774
+        ],
+        [
+          55.34939043462693,
+          -32.65517906444728
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024870_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024871_0": {
+      "geometry": [
+        [
+          55.34928255561305,
+          -32.65517549925759
+        ],
+        [
+          55.349286762213055,
+          -32.65460581107711
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024871_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024880_0": {
+      "geometry": [
+        [
+          55.34944063554817,
+          -32.6538299871641
+        ],
+        [
+          55.349394362958186,
+          -32.654621631723465
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024880_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024881_1": {
+      "geometry": [
+        [
+          55.34932281464045,
+          -32.654602914308214
+        ],
+        [
+          55.349369087230464,
+          -32.65381126969467
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024881_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1024881_0": {
+      "geometry": [
+        [
+          55.34928704048105,
+          -32.65459355565458
+        ],
+        [
+          55.349333313071064,
+          -32.653801911013936
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024881_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1024910_1": {
+      "geometry": [
+        [
+          55.349451219766884,
+          -32.65116127180544
+        ],
+        [
+          55.34940494722688,
+          -32.65381735044137
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024910_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1024910_0": {
+      "geometry": [
+        [
+          55.349487165600614,
+          -32.651164074577075
+        ],
+        [
+          55.34944089306061,
+          -32.6538201532049
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024910_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1028431_1": {
+      "geometry": [
+        [
+          55.3487929409885,
+          -32.65370001007519
+        ],
+        [
+          55.349388178948516,
+          -32.653770294584945
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028431_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1028431_0": {
+      "geometry": [
+        [
+          55.34879534986464,
+          -32.653608704396
+        ],
+        [
+          55.349390587824644,
+          -32.65367898550526
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028431_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1028840_1": {
+      "geometry": [
+        [
+          55.34971439657281,
+          -32.653883869155955
+        ],
+        [
+          55.349386283352814,
+          -32.65386167257728
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028840_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1028840_0": {
+      "geometry": [
+        [
+          55.34971301425517,
+          -32.65397531798479
+        ],
+        [
+          55.349384901035165,
+          -32.65395311952875
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028840_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1024891_0": {
+      "geometry": [
+        [
+          55.34971818261932,
+          -32.653701096140765
+        ],
+        [
+          55.35008415183932,
+          -32.65373808574259
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024891_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024890_0": {
+      "geometry": [
+        [
+          55.35007796158746,
+          -32.65401218913599
+        ],
+        [
+          55.349711992367446,
+          -32.65397519325781
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024890_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1028841_0": {
+      "geometry": [
+        [
+          55.349389047511465,
+          -32.653678778596884
+        ],
+        [
+          55.34971716073146,
+          -32.65370097142085
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028841_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024911_0": {
+      "geometry": [
+        [
+          55.34933305555933,
+          -32.653811744946545
+        ],
+        [
+          55.349379328099324,
+          -32.65115566629438
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024911_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030450_0": {
+      "geometry": [
+        [
+          55.34952817384615,
+          -32.64904856281914
+        ],
+        [
+          55.349487159586154,
+          -32.651164547457135
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030450_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1024920_0": {
+      "geometry": [
+        [
+          55.34930708057485,
+          -32.65645351770121
+        ],
+        [
+          55.348385823334866,
+          -32.65632773450285
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1024920_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1026641_0": {
+      "geometry": [
+        [
+          55.34757721980426,
+          -32.65596510581234
+        ],
+        [
+          55.34839332859425,
+          -32.6560538813972
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1026641_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1026640_0": {
+      "geometry": [
+        [
+          55.348386667832564,
+          -32.65632788435977
+        ],
+        [
+          55.34757055904256,
+          -32.656239094784624
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1026640_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1028430_0": {
+      "geometry": [
+        [
+          55.34938336072221,
+          -32.653952912609746
+        ],
+        [
+          55.34878812276222,
+          -32.653882621299005
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028430_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1028781_0": {
+      "geometry": [
+        [
+          55.34845629737468,
+          -32.6535498752337
+        ],
+        [
+          55.34879703832468,
+          -32.65360906070152
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028781_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1028780_0": {
+      "geometry": [
+        [
+          55.34878643430255,
+          -32.6538822649819
+        ],
+        [
+          55.34844569335254,
+          -32.65382307368972
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1028780_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030370_0": {
+      "geometry": [
+        [
+          55.348778053370694,
+          -32.64817083042903
+        ],
+        [
+          55.348134428960705,
+          -32.64808204234846
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030370_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030411_0": {
+      "geometry": [
+        [
+          55.350052193331244,
+          -32.64800404835476
+        ],
+        [
+          55.35074626414124,
+          -32.648041035125765
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030411_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030391_0": {
+      "geometry": [
+        [
+          55.34951169891863,
+          -32.6480113927298
+        ],
+        [
+          55.35005013798863,
+          -32.64800398956526
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030391_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030410_0": {
+      "geometry": [
+        [
+          55.35074299630536,
+          -32.648315476242914
+        ],
+        [
+          55.35004892549535,
+          -32.64827847755393
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030410_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030360_1": {
+      "geometry": [
+        [
+          55.34954271491811,
+          -32.64732865894853
+        ],
+        [
+          55.34953009516811,
+          -32.64814989773757
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030360_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1030360_0": {
+      "geometry": [
+        [
+          55.349578664494295,
+          -32.647331131443906
+        ],
+        [
+          55.34956604474429,
+          -32.64815237023099
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030360_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1030381_1": {
+      "geometry": [
+        [
+          55.34945632929279,
+          -32.64904049169001
+        ],
+        [
+          55.34949418856279,
+          -32.64814526740197
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030381_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1030381_0": {
+      "geometry": [
+        [
+          55.34942046565822,
+          -32.64903370356051
+        ],
+        [
+          55.349458324928214,
+          -32.648138479256396
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030381_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1030390_1": {
+      "geometry": [
+        [
+          55.35005070004742,
+          -32.64818702075495
+        ],
+        [
+          55.34951226097741,
+          -32.64819441775344
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030390_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1030390_0": {
+      "geometry": [
+        [
+          55.3500509808379,
+          -32.64827853635767
+        ],
+        [
+          55.349512541767886,
+          -32.64828593027313
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030390_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1030401_1": {
+      "geometry": [
+        [
+          55.34878387151143,
+          -32.647988409993545
+        ],
+        [
+          55.34951372053144,
+          -32.64810308540238
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030401_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1030401_0": {
+      "geometry": [
+        [
+          55.348787071416105,
+          -32.647897261815594
+        ],
+        [
+          55.3495169204361,
+          -32.648011933062094
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030401_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1030371_0": {
+      "geometry": [
+        [
+          55.34814286486627,
+          -32.64780836050239
+        ],
+        [
+          55.34878648927628,
+          -32.64789713756182
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030371_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030400_0": {
+      "geometry": [
+        [
+          55.349507320251,
+          -32.64828538990477
+        ],
+        [
+          55.34877747123101,
+          -32.648170706171264
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030400_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030380_0": {
+      "geometry": [
+        [
+          55.34956591583138,
+          -32.64815884377128
+        ],
+        [
+          55.34952805656138,
+          -32.64905406802716
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030380_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030451_0": {
+      "geometry": [
+        [
+          55.34937933411378,
+          -32.651155193415605
+        ],
+        [
+          55.34942034837377,
+          -32.64903920875361
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030451_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030361_0": {
+      "geometry": [
+        [
+          55.349458196015654,
+          -32.64814495277912
+        ],
+        [
+          55.34947081576565,
+          -32.64732371398619
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030361_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031080_0": {
+      "geometry": [
+        [
+          55.349587093741086,
+          -32.64604906081808
+        ],
+        [
+          55.34957868058109,
+          -32.64732900957725
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031080_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030970_0": {
+      "geometry": [
+        [
+          55.35032834684079,
+          -32.64534833082396
+        ],
+        [
+          55.3499371407108,
+          -32.64529653763325
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030970_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031001_0": {
+      "geometry": [
+        [
+          55.34957162543451,
+          -32.64501498506372
+        ],
+        [
+          55.34994180252452,
+          -32.64502238043447
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031001_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031020_0": {
+      "geometry": [
+        [
+          55.349624807961334,
+          -32.64516243198048
+        ],
+        [
+          55.349586948741326,
+          -32.64605765623636
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031020_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031081_0": {
+      "geometry": [
+        [
+          55.349470799678905,
+          -32.64732583584707
+        ],
+        [
+          55.34947921283889,
+          -32.64604588708623
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031081_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031010_0": {
+      "geometry": [
+        [
+          55.349659617547466,
+          -32.64336729814455
+        ],
+        [
+          55.34963753302747,
+          -32.64433650789695
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031010_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031281_0": {
+      "geometry": [
+        [
+          55.34951708814565,
+          -32.64514854093582
+        ],
+        [
+          55.34952970787565,
+          -32.64432730214289
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031281_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030980_0": {
+      "geometry": [
+        [
+          55.34897253026375,
+          -32.645218982919076
+        ],
+        [
+          55.348135399903754,
+          -32.645130193172726
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030980_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030991_1": {
+      "geometry": [
+        [
+          55.348976981948326,
+          -32.645036310159476
+        ],
+        [
+          55.349572217148314,
+          -32.64510659465921
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030991_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(7)</p>"
+    },
+    "-1030991_0": {
+      "geometry": [
+        [
+          55.348979390824084,
+          -32.64494500342884
+        ],
+        [
+          55.34957462602408,
+          -32.64501528452804
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030991_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(4,10)</p>"
+    },
+    "-1031000_1": {
+      "geometry": [
+        [
+          55.349940985402114,
+          -32.64520540415332
+        ],
+        [
+          55.34957080831212,
+          -32.64519800454357
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031000_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(3)</p>"
+    },
+    "-1031000_0": {
+      "geometry": [
+        [
+          55.349940576602016,
+          -32.64529691600129
+        ],
+        [
+          55.34957039951202,
+          -32.64528951427204
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031000_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(8,12)</p>"
+    },
+    "-1031021_1": {
+      "geometry": [
+        [
+          55.3495152214728,
+          -32.64604407984693
+        ],
+        [
+          55.3495530806928,
+          -32.6451488555589
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031021_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(1)</p>"
+    },
+    "-1031021_0": {
+      "geometry": [
+        [
+          55.349479357838256,
+          -32.6460372916913
+        ],
+        [
+          55.34951721705826,
+          -32.64514206738719
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031021_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(6,11)</p>"
+    },
+    "-1031280_1": {
+      "geometry": [
+        [
+          55.349601607028106,
+          -32.64433224712297
+        ],
+        [
+          55.349588987298105,
+          -32.64515348591199
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031280_1<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-l<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(5)</p>"
+    },
+    "-1031280_0": {
+      "geometry": [
+        [
+          55.34963755660429,
+          -32.64433471962722
+        ],
+        [
+          55.34962493687429,
+          -32.645155958414286
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031280_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: E-rs<br/>travel time: 0s <br/>flow: 0vph <br/>movements:(2,9)</p>"
+    },
+    "-1030981_0": {
+      "geometry": [
+        [
+          55.348141893923035,
+          -32.64485616860482
+        ],
+        [
+          55.34897902428304,
+          -32.64494494399845
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030981_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030990_0": {
+      "geometry": [
+        [
+          55.34956739892276,
+          -32.645289214786956
+        ],
+        [
+          55.34897216372276,
+          -32.64521892348616
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030990_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: N-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1030971_0": {
+      "geometry": [
+        [
+          55.34994523841615,
+          -32.64502275877877
+        ],
+        [
+          55.35033644454614,
+          -32.64507454526806
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1030971_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: S-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    },
+    "-1031011_0": {
+      "geometry": [
+        [
+          55.349529731452414,
+          -32.644325513878016
+        ],
+        [
+          55.349551815972426,
+          -32.64335630411042
+        ]
+      ],
+      "type": "arrow",
+      "color": "#00ff00",
+      "tag": "<p> laneset id: -1031011_0<br/>speed limit: 25 mph <br/>lane number: 1<br/>direction: W-s<br/>travel time: 0s <br/>flow: 0vph <br/>movements:()</p>"
+    }
+  },
+  "bounds": [
+    [
+      "55.34757",
+      "-32.67176"
+    ],
+    [
+      "55.35078",
+      "-32.64336"
+    ]
+  ]
+}

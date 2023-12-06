@@ -1,0 +1,8 @@
+gurobipy==9.1.1
+matplotlib
+networkx
+numpy>=1.20.3
+osmnx
+packaging>=20.9
+scipy
+tqdm==4.54.1
