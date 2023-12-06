@@ -10,7 +10,7 @@ We design a distributed algorithm combining ADMM and Benders decomposition to so
 Here is the detailed code.
 
 ## Citation
-> [Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches]<br />
+> [**Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches**]<br />
 > Xinyu Fei, Xingmin Wang, Xian Yu, Yiheng Feng, Henry Liu, Siqian Shen, Yafeng Yin <br />
 > *European Journal of Operational Research, 2023*
 > ```
