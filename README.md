@@ -56,7 +56,7 @@ python fake_instance_main.py
 ```
 
 ### Detailed Usage Guide
-If you want to test your own instances, you can set your own osm map file as input.
+1. If you want to test your own instances, you can set your own osm map file as input.
 You can also change the number of scenarios, ADMM iterations, and Benders decomposition iterations. 
 An example command line is
 ```shell 
@@ -64,18 +64,26 @@ python fake_instance_main.py --mapfile="map_data/fake_instance/1-8.osm" \
   --scenario=20 --numadmm=10 --numbenders=4
 ```
 
-Additionally, if you want to generate a baseline signal plan, you can call function
+2. If you want to generate a baseline signal plan, you can call function
 ```
 for node_id, node in fake_instance_simulator.nodes.items():
     if node.type == "signalized":
         fake_instance_simulator.generate_naive_signal_plan(node_id)
 ```
-If you want to simply run the evaluation of a given traffic signal plan, you can comment the following lines and 
+3. If you want to simply run the evaluation of a given traffic signal plan, you can comment the following lines and 
 rerun the file ```fake_instance_main.py```
 ```
 fake_instance_optimizer.run()
 fake_instance_optimizer.draw_signal()
 ```
+4. If you want to solve the centralized two-stage stochastic program directly by Gurobi, please
+follow the commands:
+ ```
+cd opt/centralized
+python Gurobi_Stochastic.py
+``` 
+You can change the synthetic network size and other parameters in ```opt/centralized/data_global.py```.
+
 ## Code Structure
 ### Directory Layout
 Here is the layout of this repository.
@@ -95,6 +103,7 @@ ctm-signal-opt-sharing/
       |- mtlmap
       |- tools
     |- opt
+      |- centralized
       |- ADMM_optimizer.py
       ...
     fake_instance_main.py
@@ -105,7 +114,8 @@ ctm-signal-opt-sharing/
 2. ```ctm```: all the functions to build a ctm model
 3. ```map_data```: our sample synthetic data
 4. ```mtldp```: our tools to generate and read osm map files
-5. ```opt```: our optimizer algorithm code
+5. ```opt```: our optimizer algorithm code, including centralized version in the folder
+```centralized```, and decentralized algorithms.
 
 
 ## Developers

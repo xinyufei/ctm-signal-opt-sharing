@@ -44,7 +44,7 @@ for obj_id, obj in fake_instance_simulator.nodes.items():
     if obj.type in ["signalized", "unsignalized"]:
         group_list.append([obj_id])
         global_list.append(obj_id)
-num_scenario = 20
+num_scenario = args.scenario
 fake_instance_simulator.update_fake_demand(mean, variance, num_scenario)
 fake_instance_simulator.update_turning_ratio(num_scenario, 0.3)
 folder_name = f"log_fake/{args.mapfile.split('/')[-1].strip('.osm')}/bite{args.numbenders}_admmite{args.numadmm}/"
