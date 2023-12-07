@@ -3,14 +3,14 @@
 
 ## Introduction
 This repository contains the source code used in the computational experiments of the paper: 
-**Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches**.
+[**Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches**](https://www.sciencedirect.com/science/article/pii/S0377221723002941).
 
 We build a two-stage stochastic program based on the Cell Transmission Model (CTM) for traffic signal control under stochastic traffic conditions.
 We design a distributed algorithm combining ADMM and Benders decomposition to solve the model. 
 Here is the detailed code.
 
 ## Citation
-> [**Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches**]<br />
+> [**Traffic Signal Control under Stochastic Traffic Demand and Vehicle Turning via Decentralized Decomposition Approaches**](https://www.sciencedirect.com/science/article/pii/S0377221723002941) <br />
 > Xinyu Fei, Xingmin Wang, Xian Yu, Yiheng Feng, Henry Liu, Siqian Shen, Yafeng Yin <br />
 > *European Journal of Operational Research, 2023*
 > ```
@@ -124,4 +124,6 @@ Xinyu Fei (xinyuf@umich.edu), for algorithms and CTM model
 Xingmin Wang (xingminw@umich.edu), for data processing and CTM model
 
 ## Contact
+Xinyu Fei (xinyuf@umich.edu)
+
 Siqian Shen (siqian@umich.edu)
